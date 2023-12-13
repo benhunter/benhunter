@@ -1397,7 +1397,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>spotbugs/spotbugs</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.</div>
@@ -2494,7 +2494,7 @@ Affected files:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Dec 2023, 16:13:49 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Dec 2023, 17:14:33 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
