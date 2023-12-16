@@ -2016,7 +2016,7 @@ Affected files:
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 212k out of 124m users</span>
+                                    <span class="gh">ranked 212k out of 126m users</span>
                                 </div>
                                 <div class="text">Published 90 public repositories</div>
                             </div>
@@ -2175,7 +2175,7 @@ Affected files:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 452k out of 124m users</span>
+                                    <span class="gh">ranked 452k out of 126m users</span>
                                 </div>
                                 <div class="text">Followed by 28 users</div>
                             </div>
@@ -2470,7 +2470,7 @@ Affected files:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Dec 2023, 22:16:53 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Dec 2023, 23:13:09 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
