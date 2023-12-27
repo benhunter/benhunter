@@ -1397,7 +1397,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fffaraz/awesome-selfhosted-aws</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of awesome self-hosted alternatives to Amazon Web Services (AWS)</div>
@@ -1438,7 +1438,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fatedier/frp</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.</div>
@@ -1491,7 +1491,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>esp-rs/awesome-esp-rust</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Curated list of resources for ESP32 development in the Rust programming language</div>
@@ -2461,7 +2461,7 @@ The following vulnerabilities are fixed with an upgrade:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Dec 2023, 15:13:07 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Dec 2023, 16:13:26 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
