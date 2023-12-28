@@ -1505,7 +1505,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fatedier/frp</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.</div>
@@ -1558,7 +1558,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>esp-rs/awesome-esp-rust</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Curated list of resources for ESP32 development in the Rust programming language</div>
@@ -2595,7 +2595,7 @@ The following vulnerabilities are fixed with an upgrade:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Dec 2023, 19:57:04 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Dec 2023, 20:25:18 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
