@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.keyword{color:#b44418}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -83,7 +83,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            10375 Commits
+                            10376 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -354,13 +354,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 90 days
+                            Current streak 45 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
-                            Best streak 90 days
+                            Best streak 45 days
                         </div>
                         <h3 class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -700,15 +700,15 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.120401337792642 0,1.120401337792642 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.120401337792642 1.7,2.120401337792642 z"/>
                             </g>
-                            <g transform="translate(-1.7, 5.816053511705686)">
+                            <g transform="translate(-1.7, 5.7959866220735785)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.1839464882943145 0,2.1839464882943145 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.1839464882943145 1.7,3.1839464882943145 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2040133779264215 0,2.2040133779264215 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2040133779264215 1.7,3.2040133779264215 z"/>
                             </g>
-                            <g transform="translate(-3.4, 7.558528428093646)">
+                            <g transform="translate(-3.4, 7.578595317725753)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4414715719063547 0,1.4414715719063547 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4414715719063547 1.7,2.4414715719063547 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4214046822742477 0,1.4214046822742474 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4214046822742474 1.7,2.4214046822742477 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.79933110367893)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -725,17 +725,17 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.220735785953177 0,1.2207357859531773 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2207357859531773 1.7,2.220735785953177 z"/>
                             </g>
-                            <g transform="translate(-10.2, 11.658862876254181)">
+                            <g transform="translate(-10.2, 11.638795986622075)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3411371237458196 0,1.3411371237458194 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3411371237458194 1.7,2.3411371237458196 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.361204013377926 0,1.3612040133779264 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3612040133779264 1.7,2.361204013377926 z"/>
                             </g>
                         </g>
                         <g transform="translate(15.299999999999999, 9)">
-                            <g transform="translate(0, 5.979933110367893)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.020066889632107 0,1.020066889632107 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.020066889632107 1.7,2.020066889632107 z"/>
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-1.7, 6.658862876254181)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -991,15 +991,15 @@
                             </g>
                         </g>
                         <g transform="translate(27.2, 16)">
-                            <g transform="translate(0, 5.618729096989966)">
+                            <g transform="translate(0, 5.59866220735786)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3812709030100336 0,1.3812709030100334 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3812709030100334 1.7,2.3812709030100336 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.40133779264214 0,1.4013377926421404 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4013377926421404 1.7,2.40133779264214 z"/>
                             </g>
-                            <g transform="translate(-1.7, 6.237458193979933)">
+                            <g transform="translate(-1.7, 6.25752508361204)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.762541806020067 0,1.7625418060200668 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.7625418060200668 1.7,2.762541806020067 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.74247491638796 0,1.7424749163879598 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.7424749163879598 1.7,2.74247491638796 z"/>
                             </g>
                             <g transform="translate(-3.4, 7.297658862876254)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1016,15 +1016,15 @@
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.1638795986622075 0,2.1638795986622075 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.1638795986622075 1.7,3.1638795986622075 z"/>
                             </g>
-                            <g transform="translate(-8.5, 9.093645484949832)">
+                            <g transform="translate(-8.5, 9.073578595317725)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.9063545150501673 0,2.9063545150501673 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.9063545150501673 1.7,3.9063545150501673 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.9264214046822743 0,2.9264214046822743 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.9264214046822743 1.7,3.9264214046822743 z"/>
                             </g>
-                            <g transform="translate(-10.2, 11.11705685618729)">
+                            <g transform="translate(-10.2, 11.137123745819398)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.8829431438127093 0,1.882943143812709 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.882943143812709 1.7,2.8829431438127093 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.862876254180602 0,1.8628762541806019 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8628762541806019 1.7,2.862876254180602 z"/>
                             </g>
                         </g>
                         <g transform="translate(28.9, 17)">
@@ -1102,35 +1102,35 @@
                             </g>
                         </g>
                         <g transform="translate(32.3, 19)">
-                            <g transform="translate(0, 5.879598662207358)">
+                            <g transform="translate(0, 5.8595317725752505)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.120401337792642 0,1.120401337792642 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.120401337792642 1.7,2.120401337792642 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.140468227424749 0,1.140468227424749 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.140468227424749 1.7,2.140468227424749 z"/>
                             </g>
-                            <g transform="translate(-1.7, 6.979933110367893)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.020066889632107 0,1.020066889632107 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.020066889632107 1.7,2.020066889632107 z"/>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-3.4, 7.959866220735786)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.040133779264214 0,1.040133779264214 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.040133779264214 1.7,2.040133779264214 z"/>
                             </g>
-                            <g transform="translate(-5.1, 8.939799331103679)">
+                            <g transform="translate(-5.1, 8.919732441471572)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.060200668896321 0,1.060200668896321 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.060200668896321 1.7,2.060200668896321 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.080267558528428 0,1.080267558528428 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.080267558528428 1.7,2.080267558528428 z"/>
                             </g>
-                            <g transform="translate(-6.8, 9.819397993311037)">
+                            <g transform="translate(-6.8, 9.79933110367893)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.180602006688963 0,1.180602006688963 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.180602006688963 1.7,2.180602006688963 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.20066889632107 0,1.20066889632107 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.20066889632107 1.7,2.20066889632107 z"/>
                             </g>
-                            <g transform="translate(-8.5, 10.959866220735787)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.040133779264214 0,1.040133779264214 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.040133779264214 1.7,2.040133779264214 z"/>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-10.2, 11.939799331103679)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1787,6 +1787,642 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#070c30f</div>
+                                        <div class="message">vault backup: 2024-01-09 08:42:16
+
+Affected files:
+.obsidian/bookmarks.json
+.obsidian/daily-notes.json
+.obsidian/plugins/copilot/data.json
+.obsidian/plugins/copilot/manifest.json
+.obsidian/plugins/emoji-shortcodes/data.json
+.obsidian/plugins/emoji-shortcodes/styles.css
+.obsidian/plugins/obsidian-excalidraw-plugin/data.json
+.obsidian/plugins/obsidian-git/main.js
+.obsidian/plugins/obsidian-git/manifest.json
+.obsidian/plugins/obsidian-git/styles.css
+.obsidian/plugins/obsidian-tasks-plugin/data.json
+.obsidian/plugins/obsidian-tasks-plugin/manifest.json
+.obsidian/plugins/obsidian-tts/data.json
+.obsidian/plugins/obsidian-tts/main.js
+.obsidian/plugins/templater-obsidian/manifest.json
+.obsidian/plugins/templater-obsidian/styles.css
+.obsidian/themes/Obsidian Nord/manifest.json
+.obsidian/themes/Obsidian Nord/theme.css
+1. Projects/2022-08 MCSO UT Austin Masters of Computer Science/AP Android Programming MCSO.md
+1. Projects/2022-08 MCSO UT Austin Masters of Computer Science/MCSO CSML Case Studies in Machine Learning.md
+1. Projects/2022-08 MCSO UT Austin Masters of Computer Science/MCSO Masters of Computer Science Online 2023 UT Austin.md
+1. Projects/2022-08 MCSO UT Austin Masters of Computer Science/ML Homework 4.md
+1. Projects/2022-08 MCSO UT Austin Masters of Computer Science/ML Homework 5.md
+1. Projects/2022-08 MCSO UT Austin Masters of Computer Science/ML Homework 6.md
+1. Projects/2022-08 MCSO UT Austin Masters of Computer Science/NLP Natural Language Processing MCSO.md
+1. Projects/2022-08 MCSO UT Austin Masters of Computer Science/News Articles through UTexas Library.md
+1. Projects/2022-08 MCSO UT Austin Masters of Computer Science/RL Reinforcement Learning MCSO.md
+1. Projects/2022-08 MCSO UT Austin Masters of Computer Science/School Tasks.md
+1. Projects/2023-08 MCSO Virtualization/2023-10-22 MCSO Virtualization HOSS VM Diagram.excalidraw.md
+1. Projects/2023-08 MCSO Virtualization/C struct keyword.md
+1. Projects/2023-08 MCSO Virtualization/CR3 Register.md
+1. Projects/2023-08 MCSO Virtualization/MCSO Virtualization.md
+1. Projects/2023-08 MCSO Virtualization/Virtualization Lab 0 - Coding questions.md
+1. Projects/2023-08 MCSO Virtualization/Virtualization Lab 0 - Intro &amp; Pre-lab questions.md
+1. Projects/2023-08 MCSO Virtualization/Virtualization Lab 0 - Notes from TA.md
+1. Projects/2023-08 MCSO Virtualization/Virtualization Lab 0.md
+1. Projects/2023-08 MCSO Virtualization/Virtualization Lab 1.md
+1. Projects/2023-08 MCSO Virtualization/Virtualization Lab 2.md
+1. Projects/2023-08 MCSO Virtualization/Virtualization Lab 3.canvas
+1. Projects/2023-08 MCSO Virtualization/Virtualization Lab 3.md
+1. Projects/2023-08 MCSO Virtualization/Virtualization Lab 4.md
+1. Projects/2023-08 MCSO Virtualization/Virtualization MCSO - Lab Setup for CS Department Machine.md
+1. Projects/2023-08 MCSO Virtualization/Virtualization MCSO - Lab Setup for Your Own Setup.md
+1. Projects/2023-08 MCSO Virtualization/Virtualization MCSO - x86 Registers.md
+1. Projects/2023-08 MCSO Virtualization/Virtualization MCSO Canvas Page - Bootloader and Kernel.md
+1. Projects/2023-08 MCSO Virtualization/Virtualization MCSO Canvas Page - Environments.md
+1. Projects/2023-08 MCSO Virtualization/Virtualization MCSO Canvas Page - File System.md
+1. Projects/2023-08 MCSO Virtualization/Virtualization MCSO Canvas Page - Tools.md
+1. Projects/2023-08 MCSO Virtualization/Virtualization MCSO Canvas Page - Virtual Memory.md
+1. Projects/2023-08 MCSO Virtualization/Virtualization MCSO Code Snippets.md
+1. Projects/2023-08 MCSO Virtualization/Virtualization MCSO Syllabus.md
+1. Projects/2023-08 MCSO Virtualization/Virtualization Midterm Exam.md
+1. Projects/2023-08 MCSO Virtualization/Virtualization Midterm Notes.md
+1. Projects/2023-08 MCSO Virtualization/Virtualization Midterm.md
+1. Projects/2023-08 MCSO Virtualization/Virtualization edx Transcripts.md
+1. Projects/2023-08 MCSO Virtualization/prelab 4 question 3 2023-11-30.excalidraw
+1. Projects/2023-09 AppSec/2023-11-01 AWS call - BCAP.md
+1. Projects/2023-09 AppSec/2023-11-15 Aquamayne Dynamic Pipeline.excalidraw.md
+1. Projects/2023-09 AppSec/Aquamayne Logo.md
+1. Projects/2023-09 AppSec/Exodus AppSec Pipeline.md
+1. Projects/2023-09 AppSec/Security Engineer Resources.md
+1. Projects/2023-09 My Army Post/2023-09-23 firebaseCICD.excalidraw
+1. Projects/2023-09 My Army Post/2023-10-02 1600 CSA Demo Notes.md
+1. Projects/2023-09 My Army Post/2023-10-12 AUSA Notes.md
+1. Projects/2023-09 My Army Post/Digital Garrison Parser Cloud Function for Base Resources.md
+1. Projects/2023-09 My Army Post/Firestore Security Rules.md
+1. Projects/2023-09 My Army Post/My Army Post (Digital Garrison) Log.md
+1. Projects/2023-10 Coaching/2023-10 Coaching Security Fellows.md
+1. Projects/2023-10 Coaching/2023-10-26 Axel Alvarez.md
+1. Projects/2023-10 Coaching/2023-10-26 Javier Navarro.md
+1. Projects/2023-10 Coaching/My Work Philosophy - Engineering.md
+1. Projects/2023-10 Coaching/SWF Enablement.md
+1. Projects/2023-10-03 GCP IATT.md
+1. Projects/2023-11 AquaDash/AquaDash UI 2023-11-25.excalidraw.md
+1. Projects/2023-11 AquaDash/AquaDash.md
+1. Projects/2023-12-20 MSCS Hub Mobile/MSCS Hub Mobile.md
+1. Projects/Backlog/2023-02-21 1-1 with Brad Davidson.md
+1. Projects/Backlog/2023-05 AFC Badge Request for HQ and SIPR Access.md
+1. Projects/Backlog/2023-05 AFC SIPR Account and SIPR Token.md
+1. Projects/Backlog/2023-06-10 r_Piracy Backup/Piracy Subreddit Backup.md
+1. Projects/Backlog/2023-06-10 r_Piracy Backup/r_piracy-megathread.md
+1. Projects/Backlog/2023-06-11 Whitepaper Template/Awesome Whitepaper Templates.md
+1. Projects/Backlog/2023-06-11 Whitepaper Template/Pandoc.md
+1. Projects/Backlog/2023-08 Tactical Signal Primer - Dev Talk.md
+1. Projects/Backlog/2023-08-29 zScaler Admin for SWF.md
+1. Projects/Backlog/2023-09-13 TAP in SWF Dev Environment.md
+1. Projects/Backlog/2023-09-21 Justin Kang 3D Printer Quality of Life.md
+1. Projects/Backlog/AWS Enablement.md
+1. Projects/Backlog/Advent of Code.md
+1. Projects/Backlog/Army Accountability.md
+1. Projects/Backlog/Backup Plan - All Data.md
+1. Projects/Backlog/CISSP Certification.md
+1. Projects/Backlog/CSRF Spring Boot 3.md
+1. Projects/Backlog/CodeCrafters - Practice Writing Complex Software.md
+1. Projects/Backlog/Coding Best Practices for SWF.md
+1. Projects/Backlog/Corne Wireless Keyboard - BeeKeeb.md
+1. Projects/Backlog/Create Release Notes from Commit History.md
+1. Projects/Backlog/Crux Climbing Center Austin.md
+1. Projects/Backlog/Dev Talk - Domain Driven Design.md
+1. Projects/Backlog/Distributed Data/Distributed Data.md
+1. Projects/Backlog/Dotfiles.md
+1. Projects/Backlog/EAMS-A GCDS Portal for SWF Apps.md
+1. Projects/Backlog/EAMS-A and R2D2 local config - Java TLS Certs for EAMS-A - Add to JVM or JDK.md
+1. Projects/Backlog/EAMS-A.md
+1. Projects/Backlog/EndeavorOS on Pwnator.md
+1. Projects/Backlog/Expo ReactNative Tutorial StickerSmash.md
+1. Projects/Backlog/Gandalf Lakera AI.md
+1. Projects/Backlog/Gossip Glommers - Distributed Database Coding Challenge.md
+1. Projects/Backlog/Government Passport and Official Travel Info and ISOPREP.md
+1. Projects/Backlog/Home NAS TrueNAS Scale on Cylon.md
+1. Projects/Backlog/Homelab.md
+1. Projects/Backlog/JHipsterDemoBlog.md
+1. Projects/Backlog/My Quotes and Ideas.md
+1. Projects/Backlog/My SWF IL0 Account.md
+1. Projects/Backlog/Nebula Peer to Peer Overlay Network.md
+1. Projects/Backlog/OWASP Top 10 Talk.md
+1. Projects/Backlog/Planck Keyboard.md
+1. Projects/Backlog/Practice Talks for SWF.md
+1. Projects/Backlog/Project Ideas.md
+1. Projects/Backlog/Radius Method - Landmine.md
+1. Projects/Backlog/Reset Test Database from Cypress Tests.md
+1. Projects/Backlog/RsaCtfTool.md
+1. Projects/Backlog/Running Tesseract Starter App on Windows.md
+1. Projects/Backlog/Rust/Learning Rust Programming Language.md
+1. Projects/Backlog/Rust/Testing Rust.md
+1. Projects/Backlog/Rust/Weather CLI Project.md
+1. Projects/Backlog/SMART Goals for Brad Davidson.md
+1. Projects/Backlog/SRCerer New Team Onboarding 2022-01-13.md
+1. Projects/Backlog/STIG Navigator.md
+1. Projects/Backlog/Security and Risk Scorecard for Open Source Projects.md
+1. Projects/Backlog/Slack Scraper.md
+1. Projects/Backlog/Software to Try.md
+1. Projects/Backlog/SonarQube.md
+1. Projects/Backlog/Spring Boot External Configuration.md
+1. Projects/Backlog/Surface Book 2 Laptop.md
+1. Projects/Backlog/TRMS Practice Story - Delete Todo Item.md
+1. Projects/Backlog/TRMS User Interview 2022-01-22 Ryan Casey.md
+1. Projects/Backlog/Version Management and Dependency Management workshop.md
+1. Projects/Backlog/Weekly Account Logins.md
+1. Projects/Backlog/Whitepaper Ideas.md
+1. Projects/Backlog/ZMK Keyboard Firmware.md
+1. Projects/Backlog/ZScaler.md
+1. Projects/Reading.md
+2. Areas of Responsibility/2007 Toyota Tacoma.md
+2. Areas of Responsibility/ASVE Developer Log.md
+2. Areas of Responsibility/Army/2023-05-09 26B Key Nominative Billets.md
+2. Areas of Responsibility/Army/Army Training Scripts JKO ALMS Cyber.md
+2. Areas of Responsibility/Army/Dog Tags in Austin TX.md
+2. Areas of Responsibility/Daily/2021-06-18.md
+2. Areas of Responsibility/Daily/2021-09-13.md
+2. Areas of Responsibility/Daily/2021-09-30.md
+2. Areas of Responsibility/Daily/2021-10-04.md
+2. Areas of Responsibility/Daily/2021-10-13.md
+2. Areas of Responsibility/Daily/2021-11-19.md
+2. Areas of Responsibility/Daily/2021-12-04.md
+2. Areas of Responsibility/Daily/2021-12-05.md
+2. Areas of Responsibility/Daily/2021-12-06.md
+2. Areas of Responsibility/Daily/2021-12-07.md
+2. Areas of Responsibility/Daily/2021-12-08.md
+2. Areas of Responsibility/Daily/2022-01-18.md
+2. Areas of Responsibility/Daily/2022-01-26.md
+2. Areas of Responsibility/Daily/2022-01-31.md
+2. Areas of Responsibility/Daily/2022-02-24.md
+2. Areas of Responsibility/Daily/2022-03-05.md
+2. Areas of Responsibility/Daily/2022-03-10.md
+2. Areas of Responsibility/Daily/2022-03-21.md
+2. Areas of Responsibility/Daily/2022-04-01.md
+2. Areas of Responsibility/Daily/2022-04-13.md
+2. Areas of Responsibility/Daily/2022-04-25.md
+2. Areas of Responsibility/Daily/2022-05-03.md
+2. Areas of Responsibility/Daily/2022-05-05.md
+2. Areas of Responsibility/Daily/2022-05-10.md
+2. Areas of Responsibility/Daily/2022-05-18.md
+2. Areas of Responsibility/Daily/2022-05-19.md
+2. Areas of Responsibility/Daily/2022-05-20.md
+2. Areas of Responsibility/Daily/2022-05-23.md
+2. Areas of Responsibility/Daily/2022-05-24.md
+2. Areas of Responsibility/Daily/2022-05-30.md
+2. Areas of Responsibility/Daily/2022-06-03.md
+2. Areas of Responsibility/Daily/2022-06-06.md
+2. Areas of Responsibility/Daily/2022-08-07.md
+2. Areas of Responsibility/Daily/2022-09-01.md
+2. Areas of Responsibility/Daily/2023-04-11.md
+2. Areas of Responsibility/Daily/2023-04-12.md
+2. Areas of Responsibility/Daily/2023-04-16.md
+2. Areas of Responsibility/Daily/2023-04-17.md
+2. Areas of Responsibility/Daily/2023-05-03.md
+2. Areas of Responsibility/Daily/2023-05-05.md
+2. Areas of Responsibility/Daily/2023-05-09.md
+2. Areas of Responsibility/Daily/2023-05-22.md
+2. Areas of Responsibility/Daily/2023-05-30.md
+2. Areas of Responsibility/Daily/2023-06-02.md
+2. Areas of Responsibility/Daily/2023-06-03.md
+2. Areas of Responsibility/Daily/2023-06-04.md
+2. Areas of Responsibility/Daily/2023-06-05.md
+2. Areas of Responsibility/Daily/2023-06-06.md
+2. Areas of Responsibility/Daily/2023-06-09.md
+2. Areas of Responsibility/Daily/2023-06-14.md
+2. Areas of Responsibility/Daily/2023-06-15.md
+2. Areas of Responsibility/Daily/2023-06-16.md
+2. Areas of Responsibility/Daily/2023-06-17.md
+2. Areas of Responsibility/Daily/2023-06-20.md
+2. Areas of Responsibility/Daily/2023-06-21.md
+2. Areas of Responsibility/Daily/2023-06-23.md
+2. Areas of Responsibility/Daily/2023-06-24.md
+2. Areas of Responsibility/Daily/2023-06-25.md
+2. Areas of Responsibility/Daily/2023-06.md
+2. Areas of Responsibility/Daily/2023-07-02.md
+2. Areas of Responsibility/Daily/2023-07-04.md
+2. Areas of Responsibility/Daily/2023-07-05.md
+2. Areas of Responsibility/Daily/2023-07-10.md
+2. Areas of Responsibility/Daily/2023-07-12.md
+2. Areas of Responsibility/Daily/2023-07-13.md
+2. Areas of Responsibility/Daily/2023-07-18.md
+2. Areas of Responsibility/Daily/2023-07-30.md
+2. Areas of Responsibility/Daily/2023-08-04.md
+2. Areas of Responsibility/Daily/2023-08-06.md
+2. Areas of Responsibility/Daily/2023-08-07.md
+2. Areas of Responsibility/Daily/2023-08-08.md
+2. Areas of Responsibility/Daily/2023-08-09.md
+2. Areas of Responsibility/Daily/2023-08-10.md
+2. Areas of Responsibility/Daily/2023-08-14.md
+2. Areas of Responsibility/Daily/2023-08-21.md
+2. Areas of Responsibility/Daily/2023-08-22.md
+2. Areas of Responsibility/Daily/2023-08-23.md
+2. Areas of Responsibility/Daily/2023-08-24.md
+2. Areas of Responsibility/Daily/2023-08-25.md
+2. Areas of Responsibility/Daily/2023-08-26.md
+2. Areas of Responsibility/Daily/2023-08-27.md
+2. Areas of Responsibility/Daily/2023-08-28.md
+2. Areas of Responsibility/Daily/2023-08-29.md
+2. Areas of Responsibility/Daily/2023-08-30.md
+2. Areas of Responsibility/Daily/2023-08.md
+2. Areas of Responsibility/Daily/2023-09-02.md
+2. Areas of Responsibility/Daily/2023-09-04.md
+2. Areas of Responsibility/Daily/2023-09-05.md
+2. Areas of Responsibility/Daily/2023-09-06.md
+2. Areas of Responsibility/Daily/2023-09-07.md
+2. Areas of Responsibility/Daily/2023-09-08.md
+2. Areas of Responsibility/Daily/2023-09-09.md
+2. Areas of Responsibility/Daily/2023-09-10.md
+2. Areas of Responsibility/Daily/2023-09-11.md
+2. Areas of Responsibility/Daily/2023-09-12.md
+2. Areas of Responsibility/Daily/2023-09-13.md
+2. Areas of Responsibility/Daily/2023-09-14.md
+2. Areas of Responsibility/Daily/2023-09-15.md
+2. Areas of Responsibility/Daily/2023-09-16.md
+2. Areas of Responsibility/Daily/2023-09-18.md
+2. Areas of Responsibility/Daily/2023-09-19.md
+2. Areas of Responsibility/Daily/2023-09-20.md
+2. Areas of Responsibility/Daily/2023-09-21.md
+2. Areas of Responsibility/Daily/2023-09-22.md
+2. Areas of Responsibility/Daily/2023-09-23.md
+2. Areas of Responsibility/Daily/2023-09-24.md
+2. Areas of Responsibility/Daily/2023-09-25.md
+2. Areas of Responsibility/Daily/2023-09-26.md
+2. Areas of Responsibility/Daily/2023-09-27.md
+2. Areas of Responsibility/Daily/2023-09-28.md
+2. Areas of Responsibility/Daily/2023-09-29.md
+2. Areas of Responsibility/Daily/2023-09-30.md
+2. Areas of Responsibility/Daily/2023-09.md
+2. Areas of Responsibility/Daily/2023-10-01.md
+2. Areas of Responsibility/Daily/2023-10-02.md
+2. Areas of Responsibility/Daily/2023-10-03.md
+2. Areas of Responsibility/Daily/2023-10-04.md
+2. Areas of Responsibility/Daily/2023-10-05.md
+2. Areas of Responsibility/Daily/2023-10-06.md
+2. Areas of Responsibility/Daily/2023-10-07.md
+2. Areas of Responsibility/Daily/2023-10-08.md
+2. Areas of Responsibility/Daily/2023-10-11.md
+2. Areas of Responsibility/Daily/2023-10-12.md
+2. Areas of Responsibility/Daily/2023-10-13.md
+2. Areas of Responsibility/Daily/2023-10-14.md
+2. Areas of Responsibility/Daily/2023-10-15.md
+2. Areas of Responsibility/Daily/2023-10-16.md
+2. Areas of Responsibility/Daily/2023-10-17.md
+2. Areas of Responsibility/Daily/2023-10-18.md
+2. Areas of Responsibility/Daily/2023-10-19.md
+2. Areas of Responsibility/Daily/2023-10-20.md
+2. Areas of Responsibility/Daily/2023-10-22.md
+2. Areas of Responsibility/Daily/2023-10-23.md
+2. Areas of Responsibility/Daily/2023-10-24.md
+2. Areas of Responsibility/Daily/2023-10-25.md
+2. Areas of Responsibility/Daily/2023-10-26.md
+2. Areas of Responsibility/Daily/2023-10-27.md
+2. Areas of Responsibility/Daily/2023-10-28.md
+2. Areas of Responsibility/Daily/2023-10-29.md
+2. Areas of Responsibility/Daily/2023-10-30.md
+2. Areas of Responsibility/Daily/2023-10-31.md
+2. Areas of Responsibility/Daily/2023-11-01.md
+2. Areas of Responsibility/Daily/2023-11-02.md
+2. Areas of Responsibility/Daily/2023-11-03.md
+2. Areas of Responsibility/Daily/2023-11-04.md
+2. Areas of Responsibility/Daily/2023-11-05.md
+2. Areas of Responsibility/Daily/2023-11-06.md
+2. Areas of Responsibility/Daily/2023-11-07.md
+2. Areas of Responsibility/Daily/2023-11-08.md
+2. Areas of Responsibility/Daily/2023-11-09.md
+2. Areas of Responsibility/Daily/2023-11-10.md
+2. Areas of Responsibility/Daily/2023-11-11.md
+2. Areas of Responsibility/Daily/2023-11-12.md
+2. Areas of Responsibility/Daily/2023-11-13.md
+2. Areas of Responsibility/Daily/2023-11-14.md
+2. Areas of Responsibility/Daily/2023-11-15.md
+2. Areas of Responsibility/Daily/2023-11-17.md
+2. Areas of Responsibility/Daily/2023-11-18.md
+2. Areas of Responsibility/Daily/2023-11-19.md
+2. Areas of Responsibility/Daily/2023-11-20.md
+2. Areas of Responsibility/Daily/2023-11-21.md
+2. Areas of Responsibility/Daily/2023-11-22.md
+2. Areas of Responsibility/Daily/2023-11-23.md
+2. Areas of Responsibility/Daily/2023-11-24.md
+2. Areas of Responsibility/Daily/2023-11-25.md
+2. Areas of Responsibility/Daily/2023-11-26.md
+2. Areas of Responsibility/Daily/2023-11-29.md
+2. Areas of Responsibility/Daily/2023-11-30.md
+2. Areas of Responsibility/Daily/2023-12-01.md
+2. Areas of Responsibility/Daily/2023-12-04.md
+2. Areas of Responsibility/Daily/2023-12-05.md
+2. Areas of Responsibility/Daily/2023-12-06.md
+2. Areas of Responsibility/Daily/2023-12-08.md
+2. Areas of Responsibility/Daily/2023-12-12.md
+2. Areas of Responsibility/Daily/2023-12-13.md
+2. Areas of Responsibility/Daily/2023-12-20.md
+2. Areas of Responsibility/Daily/2023-12-22.md
+2. Areas of Responsibility/Daily/2023-12-24.md
+2. Areas of Responsibility/Daily/2023-12-30.md
+2. Areas of Responsibility/Daily/2023-12-31.md
+2. Areas of Responsibility/Daily/2024-01-08.md
+2. Areas of Responsibility/Education/Books.md
+2. Areas of Responsibility/MEDPROS.md
+2. Areas of Responsibility/Office Symbol SWF Software Factory.md
+2. Areas of Responsibility/People.md
+2. Areas of Responsibility/Personal/2023-08 Texas Truck Registration Toyota Tacoma.md
+2. Areas of Responsibility/Personal/2023-09-09 Car Wash Membership at Whitewater Express.md
+2. Areas of Responsibility/Personal/808 Misty Nest Cv, Austin, TX 78748 - Austin Home 2021.md
+2. Areas of Responsibility/Personal/Credit Cards.md
+2. Areas of Responsibility/Personal/Fitness Tasks.md
+2. Areas of Responsibility/Personal/Jeep Compass 2016 Liz's Red Jeep.md
+2. Areas of Responsibility/Personal/Stronglifts 5x5.md
+2. Areas of Responsibility/Software Factory/2023-04-12 Sharing Tesseract Outside SWF.md
+2. Areas of Responsibility/Software Factory/API Gateway.md
+2. Areas of Responsibility/Software Factory/Army Software Factory ASWF.md
+2. Areas of Responsibility/Software Factory/DTS Defense Travel System and GTCC Travel Card for TDY.md
+2. Areas of Responsibility/Software Factory/PHA Physical Health Assessment (Readiness).md
+2. Areas of Responsibility/Software Factory/Shadowing MOBCOP Carrera Team and Practice Talks.md
+2. Areas of Responsibility/Software Factory/UIC Unit Identification Code SWF Software Factory.md
+2. Areas of Responsibility/Task Categories.md
+2. Areas of Responsibility/Tasks.md
+2. Areas of Responsibility/Work Tasks.md
+2023-10 Security Recommendations for My Army Post Proof of Concept.md
+2023-11-22 CSA Brief on Security for My Army Post.md
+2023-11-26 Prep for CSA Brief.md
+2023-11.md
+3. Research/2023-06-13 Invoke-WebRequest Powershell.md
+3. Research/2023-06-13 Robocopy - Windows Docs.md
+3. Research/AKAI MPK Mini - MIDI Keyboard.md
+3. Research/ATAK Android Tactical Assault Kit.md
+3. Research/AVD Azure Virtual Desktop for NIPR access Remote Desktop.md
+3. Research/Ambient Background Noise for working.md
+3. Research/Android Programming.md
+3. Research/Arch Linux.md
+3. Research/Army Cybersecurity.md
+3. Research/Army Photo Sources.md
+3. Research/Army Websites.md
+3. Research/Artificial Intelligence.md
+3. Research/Bash.md
+3. Research/Blog - Smashing the Stack in the 21st Century.md
+3. Research/Brainfuck.md
+3. Research/CAC Sign Git Commits 1.md
+3. Research/CAC Sign Git Commits.md
+3. Research/CAC Support.md
+3. Research/CAC on Ubuntu.md
+3. Research/CTF Tools.md
+3. Research/CTF.md
+3. Research/Certifications.md
+3. Research/ChatGPT.md
+3. Research/Chrome Browser Extensions.md
+3. Research/Chrome Dev Tools.md
+3. Research/Cloud Native Buildpacks.md
+3. Research/Coding Challenges.md
+3. Research/Convert PNG Image from Base64 on Mac.md
+3. Research/Cool Personal Websites.md
+3. Research/Copypasta Memes.md
+3. Research/Cyber Security Learning Resources.md
+3. Research/Cyber Security Tools.md
+3. Research/Cyber Security.md
+3. Research/Cycling Bicycling Biking Bike Rides.md
+3. Research/Data Hoarding.md
+3. Research/Data Sync and Overlay Mesh Networks.md
+3. Research/Database.md
+3. Research/Debugging.md
+3. Research/Design Patterns.md
+3. Research/Design System.md
+3. Research/Desktop Evironment Editor Dotfiles Setup.md
+3. Research/DevDocs.md
+3. Research/Docker Compose.md
+3. Research/Docker.md
+3. Research/EndeavourOs.md
+3. Research/Environment Variables in Spring Boot.md
+3. Research/FA26 Systems Engineering.md
+3. Research/Finance.md
+3. Research/Git.md
+3. Research/GitHub Actions.md
+3. Research/GitLab Debug Pipeline Jobs.md
+3. Research/GitLab.md
+3. Research/Google Pixel Pro 6 128GB Cell Phone.md
+3. Research/Gource - Source Code Visualization.md
+3. Research/Hexagonal Architecture aka Ports and Adapters.md
+3. Research/How to Screen Record with Audio on Mac.md
+3. Research/IPPS-A.md
+3. Research/Ideas.md
+3. Research/IntelliJ IDEA Keyboard Shortcuts.md
+3. Research/Java Truststore with DoD Certificates.md
+3. Research/Java.md
+3. Research/Kafka.md
+3. Research/Keyboards.md
+3. Research/Keycloak.md
+3. Research/Kubernetes.md
+3. Research/LaTex.md
+3. Research/Linux.md
+3. Research/Mac Smartcard.md
+3. Research/MacOS.md
+3. Research/Makefile.md
+3. Research/Midjourney.md
+3. Research/Money.md
+3. Research/Neovim.md
+3. Research/Nginx.md
+3. Research/Node Package Manager (npm).md
+3. Research/NodeJS.md
+3. Research/Offline Documentation.md
+3. Research/Online IDE.md
+3. Research/OpenLayers WMS Tiles.md
+3. Research/OpenShift.md
+3. Research/Overlay Networks.md
+3. Research/PIA Privacy Impact Assessment for PII.md
+3. Research/Pair Programming.md
+3. Research/Paper 2023-11-10 - Friend or Foe - Teaming Between Artificial Intelligence and Workers with Variation in Experience.md
+3. Research/Passwords.md
+3. Research/Podcasts.md
+3. Research/PostgreSQL Database.md
+3. Research/Practices Compendium.md
+3. Research/Product Design.md
+3. Research/Programming Languages.md
+3. Research/Progressive Web App PWA.md
+3. Research/Project Documentation.md
+3. Research/Prompts.md
+3. Research/Python.md
+3. Research/QEMU.md
+3. Research/React Router.md
+3. Research/React.md
+3. Research/Reddit Deletion Scripts.md
+3. Research/Research Papers.md
+3. Research/Rock Climbing.md
+3. Research/Rust.md
+3. Research/SMART Goals.md
+3. Research/SSH.md
+3. Research/STIG.md
+3. Research/Slack Scraper.md
+3. Research/Software Development.md
+3. Research/Software Rant by Node Creator Ryan Dahl.md
+3. Research/Spring Boot Configuration.md
+3. Research/Spring Boot Datasource Fail to Connect Hikari Timeout Settings.md
+3. Research/Spring Boot Logging.md
+3. Research/Spring Boot.md
+3. Research/Spring Events.md
+3. Research/Syncthing.md
+3. Research/TAK Server.md
+3. Research/TAK Tactical Assualt Kit aka Team Awareness Kit.md
+3. Research/Tanzu Application Platform.md
+3. Research/Tanzu Build Service TBS.md
+3. Research/Test Driven Development.md
+3. Research/Testing Mobile Apps.md
+3. Research/Testing Python.md
+3. Research/Testing Spring Boot Logging.md
+3. Research/Threat Modelling.md
+3. Research/Time.md
+3. Research/Tmux.md
+3. Research/Two Generals Problem.md
+3. Research/Typescript.md
+3. Research/UTexas Duo Reset for new phones.md
+3. Research/Udemy.md
+3. Research/Vite.js.md
+3. Research/Web Development.md
+3. Research/Windows Emoji Picker.md
+3. Research/Windows Shortcuts.md
+3. Research/Yarn.md
+3. Research/Zorin OS.md
+3. Research/bashrc.md
+3. Research/frontend-gradle-plugin.md
+3. Research/fzf - Fuzzy Finder CLI.md
+3. Research/gdb - GNU Debugger.md
+3. Research/jq - JSON Query CLI.md
+3. Research/printf.md
+3. Research/ps - Linux CLI.md
+3. Research/rg - RipGrep.md
+3. Research/rsync.md
+3. Research/sed - String Editor.md
+3. Research/tlmgr - LaTeX Package Manager.md
+4. Archive/2021-01 Network+/Network+ Study Guide Book Questions.md
+4. Archive/2021-01 Network+/Network+ Study.md
+4. Archive/2022 Avi-X/2022-07-12 Avi-X Yarn frontend warnings.md
+4. Archive/2022 Avi-X/Avi-X Developer Log.md
+4. Archive/2022 Avi-X/Avi-X TRMS 160th Tool Room Management System.md
+4. Archive/2022 Avi-X/TRMS SWIFT.md
+4. Archive/2022-10 RecruitMe/RecruitMe Developer Log.md
+4. Archive/2022-10 RecruitMe/RecruitMe Map and Geolocation Tests.md
+4. Archive/2022-10 RecruitMe/RecruitMe OpenLayers Styles.md
+4. Archive/2022-12-08 IPPS-A Training required by AFC.md
+4. Archive/2023-01 ALA Advanced Linear Algebra MCSO/ALA Advanced Linear Algebra MCSO.md
+4. Archive/2023-01 ALA Advanced Linear Algebra MCSO/ALA Final Exam.md
+4. Archive/2023-01 ALA Advanced Linear Algebra MCSO/ALA Homework 10.md
+4. Archive/2023-01 ALA Advanced Linear Algebra MCSO/ALA Homework 11.md
+4. Archive/2023-01 ALA Advanced Linear Algebra MCSO/ALA Homework 9.md
+4. Archive/2023-01 ALA Advanced Linear Algebra MCSO/generate-pdf-from-tex.md
+4. Archive/2023-01 ASVE/2023-08-03 ASVE Interviews for Army Fellows Position.md
+4. Archive/2023-01 Chimera cDSO LTAC/2023-04 Caduceus Medical Logisitics App for LTAC.md
+4. Archive/2023-01 Chimera cDSO LTAC/2023-04-04 CASL cDSO Security Docs.md
+4. Archive/2023-01 Chimera cDSO LTAC/2023-04-18 Blast Radius in cDSO and LTAC.md
+4. Archive/2023-01 Chimera cDSO LTAC/2023-06-05 LBRR Lab Based Risk Reduction at APG.md
+4. Archive/2023-01 Chimera cDSO LTAC/2023-06-12 LTAC Parsers and Ingest for BDP.md
+4. Archive/2023-01 Chimera cDSO LTAC/2023-06-13 LBRR Lab Notes and Snippets.md
+4. Archive/2023-01 Chimera cDSO LTAC/2023-06-21 LTAC Upgrade Guide.md
+4. Archive/2023-01 Chimera cDSO LTAC/2023-06-27 LTAC on TSI at SWF.md
+4. Archive/2023-01 Chimera cDSO LTAC/2023-06-28 Software Factory Coalition - San Diego.md
+4. Archive/2023-01 Chimera cDSO LTAC/2023-07 Quarterly Growth Board Prep.md
+4. Archive/2023-01 Chimera cDSO LTAC/2023-07-28 TS23 Observations - tablet.md
+4. Archive/2023-01 Chimera cDSO LTAC/2023-08-08 cDSO Future With Dan Hawthorne 1.md
+4. Archive/2023-01 Chimera cDSO LTAC/2023-08-08 cDSO Future With Dan Hawthorne.md
+4. Archive/2023-01 Chimera cDSO LTAC/2023-08-10 Talisman Sabre Hotwash.md
+4. Archive/2023-01 Chimera cDSO LTAC/2023-08-24 cDSO Trufflehog Bug.md
+4. Archive/2023-01 Chimera cDSO LTAC/2023-08-25 SWF cARMY Account.md
+4. Archive/2023-01 Chimera cDSO LTAC/2023-09-20 Whiteboard Wednesday - Caduceus.md
+4. Archive/2023-01 Chimera cDSO LTAC/Army Data Plan ADP CFT.md
+4. Archive/2023-01 Chimera cDSO LTAC/CAR Accounts and AWS Access - cArmy AWS GovCloud.md
+4. Archive/2023-01 Chimera cDSO LTAC/Chimera Developer Log.md
+4. Archive/2023-01 Chimera cDSO LTAC/Chimera Logo.md
+4. Archive/2023-01 Chimera cDSO LTAC/Chimera Wiki - App Migration from CREATE to cDSO and LTAC.md
+4. Archive/2023-01 Chimera cDSO LTAC/Community DevSecOps cDSO.md
+4. Archive/2023-01 Chimera cDSO LTAC/IronBank Platform 1 DoD Containers.md
+4. Archive/2023-01 Chimera cDSO LTAC/LTAC Administrator Training.md
+4. Archive/2023-01 Chimera cDSO LTAC/LTAC Create Ssh Admin Users.md
+4. Archive/2023-01 Chimera cDSO LTAC/Pipelines cDSO and Argonoth.md
+4. Archive/2023-01 Chimera cDSO LTAC/Project New Moon.md
+4. Archive/2023-01 Chimera cDSO LTAC/RDA Rapid Deployment Archive LTAC BDP.md
+4. Archive/2023-01 Chimera cDSO LTAC/Sonarqube cDSO.md
+4. Archive/2023-01 Chimera cDSO LTAC/TAK Server Kubernetes Helm Chart.md
+4. Archive/2023-01 Chimera cDSO LTAC/Talisman Sabre 23 Australia.md
+4. Archive/2023-01 Chimera cDSO LTAC/Tesseract in cDSO LTAC.md
+4. Archive/2023-01 Chimera cDSO LTAC/WMS Map Server on TSI CPCE.md
+4. Archive/2023-01 Chimera cDSO LTAC/ZScaler for CREATE AWS Dev Account.md
+4. Archive/2023-01 DL Deep Learning MCSO/2023-04-10 Homework 5 Deep Learning.md
+4. Archive/2023-01 DL Deep Learning MCSO/2023-04-18 Quizes Deep Learning MCSO.md
+4. Archive/2023-01 DL Deep Learning MCSO/DL Deep Learning MCSO.md
+4. Archive/2023-01 DL Deep Learning MCSO/Intro to DL group for Final Project.md
+4. Archive/2023-04-20 Mercury investigation email lookup like GAL.md
+4. Archive/2023-06 ML Machine Learning MCSO/2023-07-03 MCSO ML Exam 1 Index.md
+4. Archive/2023-06 ML Machine Learning MCSO/2023-08-04 MCSO ML Exam 2 Index.md
+4. Archive/2023-06 ML Machine Learning MCSO/AdaBoost.md
+4. Archive/2023-06 ML Machine Learning MCSO/MCSO ML Practice Exam 1 Question 3.md
+4. Archive/2023-06 ML Machine Learning MCSO/ML Exam 1.md
+4. Archive/2023-06 ML Machine Learning MCSO/ML Homework 0.md
+4. Archive/2023-06 ML Machine Learning MCSO/ML Homework 1.md
+4. Archive/2023-06 ML Machine Learning MCSO/ML Homework 2.md
+4. Archive/2023-06 ML Machine Learning MCSO/ML Homework 3.md
+4. Archive/2023-06 ML Machine Learning MCSO/ML Machine Learning MCSO.md
+4. Archive/2023-06 ML Machine Learning MCSO/Offline Book - Neural Networks and Deep Learning.md
+4. Archive/2023-07-12 OER Support Form.md
+4. Archive/2023-09 SWF Upskill Board.md
+4. Archive/2023-10-08 TDY Travel for AUSA My Army Post.md
+4. Archive/2023-10-12 C5ISR Contact List.md
+4. Archive/2023-11-01 RabbitMQ Whiteboard Wednesday.md
+4. Archive/Derivatives Cheat Sheet/Derivatives Cheat Sheet Content.md
+4. Archive/Derivatives Cheat Sheet/Derivatives Cheat Sheet.md
+4. Archive/GitHub Pro Account.md
+4. Archive/GovSlack ArmySoftwareFactory.md
+4. Archive/Logarithm-Cheat-Sheet/Logarithm Cheat Sheet.md
+4. Archive/MRT Nuggets.md
+4. Archive/Netshoot Container for Troubleshooting.md
+4. Archive/SWF Tech Accelerator/2021-11-04 Day 54 CSS Bootstrap Remote Day.md
+4. Archive/SWF Tech Accelerator/2021-11-10 Day 58 Solo MVP Project.md
+4. Archive/SWF Tech Accelerator/2021-11-15 Day 59 Solo MVP Project.md
+4. Archive/SWF Tech Accelerator/2021-11-16 Day 60 Solo MVP Project Demo Day.md
+4. Archive/SWF.md
+4. Archive/Signal Corps Direct Commission.md
+Army BYOD Hypori MobileConnect Teams.md
+Excalidraw/Drawing 2023-09-23 12.04.36.excalidraw.md
+GDB Python Scripting.md
+GDB Scripts and Automation.md
+GDB TUI Mode.md
+GlueStack React Native UI Framework.md
+Grey Hack Game.md
+Interplanetary File System IPFS.md
+Mac Zsh Tmux Slow Loading Times.md
+Mobile Apps.md
+Ratatui JSON Editor.md
+React Native.md
+Surface Pro 8 LAST.md
+Tailwind CSS Framework.md
+Templates/Basic-Note-Template.md
+Templates/Cheat-Sheet-Pdf-Template.md
+Templates/Class-Note-Template.md
+Templates/Daily-Template.md
+Templates/Homework-Note-Template.md
+Templates/Monthly-Template.md
+Templates/Research-Note-Template.md
+Templates/Stronglifts 5x5 A.md
+Templates/Stronglifts 5x5 B.md
+Templates/Table-Of-Contents-toc.md
+Templates/Templater-Example.md
+Virtualization Final Exam Notes.md
+Virtualization Final Exam.md
+Virtualization Final Transcripts.md
+Web Design.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">benhunter/Brain</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#50d98a3</div>
                                         <div class="message">vault backup: 2024-01-08 20:44:06
 
@@ -1861,29 +2497,6 @@ Affected files:
 
 Affected files:
 1. Projects/2023-09 AppSec/AppSec Engineer Log.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">benhunter/Brain</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#39a8940</div>
-                                        <div class="message">vault backup: 2024-01-08 16:43:53
-
-Affected files:
-1. Projects/2023-09 AppSec/2024-01-04 AppSec Pipeline Versioning Diagram.excalidraw.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -2496,7 +3109,7 @@ Affected files:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jan 2024, 08:14:13 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jan 2024, 09:15:18 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
