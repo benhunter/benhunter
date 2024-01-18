@@ -1402,7 +1402,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Ragnt/AngryOxide</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">802.11 Attack Tool</div>
@@ -1449,7 +1449,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ratatui-org/awesome-ratatui</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of TUI apps and libraries built with Ratatui</div>
@@ -1496,7 +1496,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>samayer12/git-hooks-reference</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Demonstrate how to use git hooks with a test suite that can evolve to meet your team's needs.</div>
@@ -1996,7 +1996,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 198k out of 128m users</span>
+                                    <span class="gh">ranked 198k out of 126m users</span>
                                 </div>
                                 <div class="text">Published 94 public repositories</div>
                             </div>
@@ -2155,7 +2155,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 459k out of 128m users</span>
+                                    <span class="gh">ranked 459k out of 126m users</span>
                                 </div>
                                 <div class="text">Followed by 28 users</div>
                             </div>
@@ -2450,7 +2450,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jan 2024, 08:13:54 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Jan 2024, 09:15:15 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
