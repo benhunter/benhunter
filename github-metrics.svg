@@ -1397,7 +1397,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dgkanatsios/CKAD-exercises</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation</div>
@@ -2032,7 +2032,7 @@ AOS Advanced Operating Systems MCSO.md</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 198k out of 128m users</span>
+                                    <span class="gh">ranked 186k out of 125m users</span>
                                 </div>
                                 <div class="text">Published 94 public repositories</div>
                             </div>
@@ -2191,7 +2191,7 @@ AOS Advanced Operating Systems MCSO.md</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 461k out of 128m users</span>
+                                    <span class="gh">ranked 461k out of 125m users</span>
                                 </div>
                                 <div class="text">Followed by 28 users</div>
                             </div>
@@ -2486,7 +2486,7 @@ AOS Advanced Operating Systems MCSO.md</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jan 2024, 07:18:20 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jan 2024, 08:14:21 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
