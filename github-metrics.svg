@@ -83,7 +83,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            25293 Commits
+                            25295 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -389,7 +389,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 43.7 characters per line of code written</li>
+                        <li>Has approximately 42.6 characters per line of code written</li>
                         <li>Mostly pushes code around 10:00</li>
                         <li>Mostly active on Friday</li>
                     </ul>
@@ -1825,6 +1825,266 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#e844114</div>
+                                        <div class="message">vault backup: 2024-03-09 14:28:11
+
+Affected files:
+.obsidian/plugins/copilot/main.js
+.obsidian/plugins/copilot/styles.css
+.obsidian/plugins/obsidian-excalidraw-plugin/data.json
+.obsidian/plugins/obsidian-excalidraw-plugin/main.js
+.obsidian/plugins/obsidian-git/main.js
+.obsidian/plugins/obsidian-git/styles.css
+.obsidian/plugins/obsidian-minimal-settings/main.js
+.obsidian/plugins/obsidian-relative-line-numbers/main.js
+.obsidian/plugins/obsidian-tasks-plugin/main.js
+.obsidian/plugins/obsidian-tasks-plugin/styles.css
+.obsidian/plugins/templater-obsidian/main.js
+.obsidian/plugins/templater-obsidian/styles.css
+1. Projects/2022-08 MCSO UT Austin Masters of Computer Science/MCSO Masters of Computer Science Online 2023 UT Austin.md
+1. Projects/2023-09 AppSec/2023-11-08 AppSec Aquamayne Exodus Frontend Pipeline Architecture Diagram.excalidraw.md
+1. Projects/2023-09 AppSec/2024-01-04 AppSec Pipeline Versioning Diagram.excalidraw.md
+1. Projects/2023-09 AppSec/2024-01-16 AppSec Pipeline Permissions Issue Diagram.excalidraw 1.md
+1. Projects/2023-09 AppSec/AppSec Engineer Log.md
+1. Projects/2023-09 My Army Post/2023-10 Security Recommendations for My Army Post Proof of Concept.md
+1. Projects/2023-09 My Army Post/2024-01-25 My Army Post Architecture.excalidraw
+1. Projects/2023-09 My Army Post/2024-01-26-0900 My Army Post Architecture.excalidraw
+1. Projects/2023-09 My Army Post/My Army Post (Digital Garrison) Log.md
+1. Projects/2023-09 My Army Post/MyArmyPost App Architecture.excalidraw
+1. Projects/2023-10-03 GCP IATT.md
+1. Projects/2024-01 MCSO AOS/AOS Advanced Operating Systems MCSO.md
+1. Projects/2024-01 MCSO AOS/AOS Project 0 Part 1 Wish Shell Instructions.md
+1. Projects/2024-01 MCSO AOS/AOS Project 0 Part 1 Wish Shell.md
+1. Projects/2024-01 MCSO AOS/AOS Project 0 Part 2 Pintos Intro.md
+1. Projects/2024-01 MCSO AOS/AOS Project 1 Threads.md
+1. Projects/2024-01 MCSO AOS/AOS Web Dump.md
+1. Projects/2024-01 MCSO AOS/Drawing AOS Project 1 Threads.excalidraw.md
+1. Projects/2024-01 MCSO AOS/GDB TUI Mode.md
+1. Projects/2024-01-16 Security Class for the Bridge Program.md
+1. Projects/2024-02-15 JWCC COA Brief.md
+1. Projects/Backlog/2022-01-13 SRCerer New Team Onboarding.md
+1. Projects/Backlog/2023-12-20 MSCS Hub Mobile/MSCS Hub Mobile.md
+1. Projects/Backlog/Advent of Code.md
+1. Projects/Backlog/Backup Plan - All Data.md
+1. Projects/Backlog/EAMS-A GCDS Portal for SWF Apps.md
+1. Projects/Backlog/EAMS-A.md
+1. Projects/Backlog/Home NAS TrueNAS Scale on Cylon.md
+1. Projects/Backlog/Homelab.md
+1. Projects/Backlog/Interplanetary File System IPFS.md
+1. Projects/Backlog/Loco Rust Framework.md
+1. Projects/Backlog/Nebula Peer to Peer Overlay Network.md
+1. Projects/Backlog/Podman - Docker Container Manager.md
+1. Projects/Backlog/SMART Goals for Brad Davidson.md
+1. Projects/Backlog/SonarQube.md
+1. Projects/Backlog/Tailscale.md
+1. Projects/Chainguard Containers.md
+1. Projects/DoD DevSecOps Reference Designs.md
+2. Areas of Responsibility/ASVE Developer Log.md
+2. Areas of Responsibility/Backups/OneTab Chrome on Conan 2021-11-24.md
+2. Areas of Responsibility/Daily/2021-10-13.md
+2. Areas of Responsibility/Daily/2022-01-13.md
+2. Areas of Responsibility/Daily/2023-10-14.md
+2. Areas of Responsibility/Daily/2023-11.md
+2. Areas of Responsibility/Daily/2023-12-12.md
+2. Areas of Responsibility/Daily/2023-12-14.md
+2. Areas of Responsibility/Daily/2024-01-03.md
+2. Areas of Responsibility/Daily/2024-01-04.md
+2. Areas of Responsibility/Daily/2024-01-05.md
+2. Areas of Responsibility/Daily/2024-01-08.md
+2. Areas of Responsibility/Daily/2024-01-10.md
+2. Areas of Responsibility/Daily/2024-01-11.md
+2. Areas of Responsibility/Daily/2024-01-12.md
+2. Areas of Responsibility/Daily/2024-01-15.md
+2. Areas of Responsibility/Daily/2024-01-16.md
+2. Areas of Responsibility/Daily/2024-01-17.md
+2. Areas of Responsibility/Daily/2024-01-18.md
+2. Areas of Responsibility/Daily/2024-01-19.md
+2. Areas of Responsibility/Daily/2024-01-20.md
+2. Areas of Responsibility/Daily/2024-01-22.md
+2. Areas of Responsibility/Daily/2024-01-23.md
+2. Areas of Responsibility/Daily/2024-01-24.md
+2. Areas of Responsibility/Daily/2024-01-25.md
+2. Areas of Responsibility/Daily/2024-01-26.md
+2. Areas of Responsibility/Daily/2024-01-27.md
+2. Areas of Responsibility/Daily/2024-01-29.md
+2. Areas of Responsibility/Daily/2024-01-30.md
+2. Areas of Responsibility/Daily/2024-02-02.md
+2. Areas of Responsibility/Daily/2024-02-04.md
+2. Areas of Responsibility/Daily/2024-02-05.md
+2. Areas of Responsibility/Daily/2024-02-06.md
+2. Areas of Responsibility/Daily/2024-02-07.md
+2. Areas of Responsibility/Daily/2024-02-08.md
+2. Areas of Responsibility/Daily/2024-02-09.md
+2. Areas of Responsibility/Daily/2024-02-12.md
+2. Areas of Responsibility/Daily/2024-02-13.md
+2. Areas of Responsibility/Daily/2024-02-15.md
+2. Areas of Responsibility/Daily/2024-02-16.md
+2. Areas of Responsibility/Daily/2024-02-19.md
+2. Areas of Responsibility/Daily/2024-02-20.md
+2. Areas of Responsibility/Daily/2024-02-21.md
+2. Areas of Responsibility/Daily/2024-02-23.md
+2. Areas of Responsibility/Daily/2024-02-24.md
+2. Areas of Responsibility/Daily/2024-02-26.md
+2. Areas of Responsibility/Daily/2024-02-27.md
+2. Areas of Responsibility/Daily/2024-02-28.md
+2. Areas of Responsibility/Daily/2024-02-29.md
+2. Areas of Responsibility/Daily/2024-03-01.md
+2. Areas of Responsibility/MEDPROS.md
+2. Areas of Responsibility/Monthly/2024-02.md
+2. Areas of Responsibility/Software Factory/Army Software Factory ASWF.md
+2. Areas of Responsibility/Software Factory/Shadowing MOBCOP Carrera Team and Practice Talks.md
+2024-02-21 Ditto ATAK Workshop.md
+3. Research/2024-01-17 Kubernetes Fundamentals.md
+3. Research/AI Generated Content.md
+3. Research/ATAK Android Tactical Assault Kit.md
+3. Research/AVD Azure Virtual Desktop for NIPR access Remote Desktop.md
+3. Research/Android Programming.md
+3. Research/Army Cybersecurity.md
+3. Research/Authenticate to SSH by SSH Key.md
+3. Research/Bash.md
+3. Research/Cyber Security Learning Resources.md
+3. Research/Cyber Security Tools.md
+3. Research/Cyber Security.md
+3. Research/Database.md
+3. Research/Discord.md
+3. Research/Docker.md
+3. Research/FA26 Systems Engineering.md
+3. Research/Factorio.md
+3. Research/Git.md
+3. Research/GitLab.md
+3. Research/GlueStack React Native UI Framework.md
+3. Research/Keyboards.md
+3. Research/Kubernetes.md
+3. Research/LaTex.md
+3. Research/Linux.md
+3. Research/Mac Zsh Tmux Slow Loading Times.md
+3. Research/MacOS.md
+3. Research/Makefile.md
+3. Research/Neovim.md
+3. Research/Python.md
+3. Research/React Router.md
+3. Research/Rust.md
+3. Research/SSH.md
+3. Research/Tmux.md
+3. Research/Web Design.md
+3. Research/Yarn.md
+3. Research/gdb - GNU Debugger.md
+3. Research/jq - JSON Query CLI.md
+4. Archive/2023-01 Chimera cDSO LTAC/Chimera Developer Log.md
+4. Archive/2023-01 Chimera cDSO LTAC/Pipelines cDSO and Argonoth.md
+4. Archive/2023-01 Chimera cDSO LTAC/Sonarqube cDSO.md
+4. Archive/2023-08 MCSO Virtualization/2023-08-26 Conan Windows 11 Features for Virtualization.png
+4. Archive/2023-08 MCSO Virtualization/2023-10-22 MCSO Virtualization HOSS VM Diagram.excalidraw.md
+4. Archive/2023-08 MCSO Virtualization/20230826231352 Virtualization MCSO Canvas Page File System.png
+4. Archive/2023-08 MCSO Virtualization/20230826232527 Virtualization MCSO Canvas Page Virtual Memory.png
+4. Archive/2023-08 MCSO Virtualization/20230826232854 Virtualization MCSO Canvas Page Bootloader and Kernel.png
+4. Archive/2023-08 MCSO Virtualization/20231105 MCSO Virtualization Lab 3 Memory Map.png
+4. Archive/2023-08 MCSO Virtualization/MCSO Virtualization.md
+4. Archive/2023-08 MCSO Virtualization/Prelab 4 Question 3 -2023-11-29-2359.png
+4. Archive/2023-08 MCSO Virtualization/Virtualization Final Exam Notes.md
+4. Archive/2023-08 MCSO Virtualization/Virtualization Final Exam.md
+4. Archive/2023-08 MCSO Virtualization/Virtualization Final Transcripts.md
+4. Archive/2023-08 MCSO Virtualization/Virtualization Lab 0 - Coding questions.md
+4. Archive/2023-08 MCSO Virtualization/Virtualization Lab 0 - Intro &amp; Pre-lab questions.md
+4. Archive/2023-08 MCSO Virtualization/Virtualization Lab 0 - Notes from TA.md
+4. Archive/2023-08 MCSO Virtualization/Virtualization Lab 3.canvas
+4. Archive/2023-08 MCSO Virtualization/Virtualization Lab 3.md
+4. Archive/2023-08 MCSO Virtualization/Virtualization Lab 4 Coding 20231130181942.png
+4. Archive/2023-08 MCSO Virtualization/Virtualization MCSO - Lab Setup for CS Department Machine.md
+4. Archive/2023-08 MCSO Virtualization/Virtualization MCSO - Lab Setup for Your Own Setup.md
+4. Archive/2023-08 MCSO Virtualization/Virtualization MCSO - x86 Registers.md
+4. Archive/2023-08 MCSO Virtualization/Virtualization MCSO Canvas Page - Bootloader and Kernel.md
+4. Archive/2023-08 MCSO Virtualization/Virtualization MCSO Canvas Page - Environments.md
+4. Archive/2023-08 MCSO Virtualization/Virtualization MCSO Canvas Page - File System.md
+4. Archive/2023-08 MCSO Virtualization/Virtualization MCSO Canvas Page - Tools.md
+4. Archive/2023-08 MCSO Virtualization/Virtualization MCSO Canvas Page - Virtual Memory.md
+4. Archive/2023-08 MCSO Virtualization/Virtualization edx Transcripts.md
+4. Archive/2023-08 MCSO Virtualization/prelab 4 question 3 2023-11-30.excalidraw
+4. Archive/Ratatui JSON Editor.md
+Excalidraw/Drawing 2023-09-23 12.04.36.excalidraw.md
+Excalidraw/Drawing 2024-03-03 13.52.36.excalidraw.md
+How to debug Pintos from VSCode over Remote-SSH - gist.md
+Security Log.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">benhunter/Brain</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b1ff832</div>
+                                        <div class="message">vault backup: 2024-03-09 14:27:11
+
+Affected files:
+.obsidian/bookmarks.json
+.obsidian/plugins/copilot/manifest.json
+.obsidian/plugins/cycle-through-panes/data.json
+.obsidian/plugins/obsidian-git/manifest.json
+.obsidian/plugins/obsidian-relative-line-numbers/manifest.json
+.obsidian/plugins/obsidian-relative-line-numbers/styles.css
+.obsidian/plugins/obsidian-tasks-plugin/manifest.json
+.obsidian/plugins/templater-obsidian/manifest.json
+1. Projects/2023-09 My Army Post/2023-11-22 CSA Brief on Security for My Army Post.md
+1. Projects/2023-11 AquaDash/AquaDash.md
+1. Projects/2024-01 MCSO AOS/valgrind.md
+1. Projects/Backlog/2023-08-29 zScaler Admin for SWF.md
+1. Projects/Backlog/Grey Hack Game.md
+1. Projects/Backlog/STIG Navigator.md
+1. Projects/Backlog/Self Host.md
+1. Projects/Backlog/Surface Pro 8 LAST.md
+1. Projects/Backlog/ZScaler.md
+3. Research/AI Models.md
+3. Research/Army BYOD Hypori MobileConnect Teams.md
+3. Research/CTF Tools.md
+3. Research/DevDocs.md
+3. Research/GoLang.md
+3. Research/Mobile Apps.md
+3. Research/Node Package Manager (npm).md
+3. Research/Overlay Networks.md
+3. Research/React Native.md
+3. Research/SMART Goals.md
+3. Research/TAK Server.md
+3. Research/Tailwind CSS Framework.md
+3. Research/cURL Linux Command Line.md
+3. Research/rg - RipGrep.md
+4. Archive/2023-08 MCSO Virtualization/Virtualization MCSO Code Snippets.md
+4. Archive/SWF.md
+ASWF Slack.md
+Clone a website for offline mirror with wget.md
+Concurrency.md
+Rust Macros.md
+Templates/Class-Note-Template.md
+Templates/Homework-Note-Template.md
+YAML.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">benhunter/Brain</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#7aa63ba</div>
                                         <div class="message">vault backup: 2024-03-09 11:05:33
 
@@ -1875,53 +2135,6 @@ Affected files:
                                         <div class="message">vault backup: 2024-03-09 11:02:33
 
 Affected files:
-1. Projects/2024-01 MCSO AOS/Exam 1/AOS Transcripts for Exam 1.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">benhunter/Brain</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#13ac29a</div>
-                                        <div class="message">vault backup: 2024-03-09 11:01:33
-
-Affected files:
-1. Projects/2024-01 MCSO AOS/Exam 1/AOS Exam 1 Notes.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">benhunter/Brain</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e4c6646</div>
-                                        <div class="message">vault backup: 2024-03-09 11:00:33
-
-Affected files:
-1. Projects/2024-01 MCSO AOS/Exam 1/AOS Exam 1 Notes.md
 1. Projects/2024-01 MCSO AOS/Exam 1/AOS Transcripts for Exam 1.md</div>
                                     </div>
                                 </div>
@@ -2113,7 +2326,7 @@ Affected files:
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 203k out of 131m users</span>
+                                    <span class="gh">ranked 203k out of 132m users</span>
                                 </div>
                                 <div class="text">Published 94 public repositories</div>
                             </div>
@@ -2272,7 +2485,7 @@ Affected files:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 472k out of 131m users</span>
+                                    <span class="gh">ranked 472k out of 132m users</span>
                                 </div>
                                 <div class="text">Followed by 28 users</div>
                             </div>
@@ -2530,7 +2743,7 @@ Affected files:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.17m out of 94.7m repositories</span>
+                                    <span class="gh">ranked 5.17m out of 72.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2648,7 +2861,7 @@ Affected files:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Mar 2024, 14:13:01 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Mar 2024, 15:14:06 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
