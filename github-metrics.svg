@@ -1454,7 +1454,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>catppuccin/xfce4-terminal</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🐭 Soothing pastel theme for XFCE4-Terminal</div>
@@ -1501,7 +1501,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>catppuccin/i3</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🌻 Soothing pastel themes for i3 &amp; sway</div>
@@ -2511,7 +2511,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.17m out of 87.3m repositories</span>
+                                    <span class="gh">ranked 5.17m out of 67.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2629,7 +2629,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Mar 2024, 00:15:24 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Mar 2024, 01:18:05 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
