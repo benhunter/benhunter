@@ -1442,7 +1442,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nats-io/nats.rs</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust client for NATS, the cloud native messaging system.</div>
@@ -1495,7 +1495,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ossf/wg-best-practices-os-developers</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Best Practices for OSS Developers working group is dedicated to raising awareness and education of secure code best practices for open source developers.</div>
@@ -2519,7 +2519,7 @@ AOS Project 2 User Programs.md</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.19m out of 94.2m repositories</span>
+                                    <span class="gh">ranked 5.19m out of 83.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2637,7 +2637,7 @@ AOS Project 2 User Programs.md</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Mar 2024, 14:12:32 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Mar 2024, 15:13:29 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
