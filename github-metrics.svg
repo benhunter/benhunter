@@ -1442,7 +1442,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nats-io/nats.rs</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust client for NATS, the cloud native messaging system.</div>
@@ -1495,7 +1495,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ossf/wg-best-practices-os-developers</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Best Practices for OSS Developers working group is dedicated to raising awareness and education of secure code best practices for open source developers.</div>
@@ -1548,7 +1548,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Wilfred/difftastic</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a structural diff that understands syntax 🟥🟩</div>
@@ -1601,7 +1601,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>programatik29/rust-web-benchmarks</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Benchmarking web frameworks written in rust with rewrk tool.</div>
@@ -2529,7 +2529,7 @@ Affected files:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.19m out of 94m repositories</span>
+                                    <span class="gh">ranked 5.19m out of 89.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2647,7 +2647,7 @@ Affected files:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Mar 2024, 17:14:11 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Mar 2024, 18:16:16 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
