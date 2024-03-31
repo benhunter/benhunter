@@ -1442,7 +1442,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LukeMathWalker/zero-to-production</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Code for "Zero To Production In Rust", a book on API development using Rust.</div>
@@ -2108,7 +2108,7 @@ Affected files:
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 200k out of 128m users</span>
+                                    <span class="gh">ranked 200k out of 133m users</span>
                                 </div>
                                 <div class="text">Published 95 public repositories</div>
                             </div>
@@ -2267,7 +2267,7 @@ Affected files:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 477k out of 128m users</span>
+                                    <span class="gh">ranked 477k out of 133m users</span>
                                 </div>
                                 <div class="text">Followed by 28 users</div>
                             </div>
@@ -2525,7 +2525,7 @@ Affected files:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.19m out of 80.7m repositories</span>
+                                    <span class="gh">ranked 5.19m out of 80.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2643,7 +2643,7 @@ Affected files:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Mar 2024, 00:13:37 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Mar 2024, 01:16:52 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
