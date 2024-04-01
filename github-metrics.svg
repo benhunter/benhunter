@@ -1502,7 +1502,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/crubit</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2538,7 +2538,7 @@ Affected files:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.20m out of 74.7m repositories</span>
+                                    <span class="gh">ranked 5.20m out of 80.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2656,7 +2656,7 @@ Affected files:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Mar 2024, 23:17:07 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Apr 2024, 00:14:41 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
