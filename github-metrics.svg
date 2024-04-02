@@ -1454,7 +1454,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GetDutchie/brick</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An intuitive way to work with persistent data in Dart</div>
@@ -2290,7 +2290,7 @@ Affected files:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 477k out of 134m users</span>
+                                    <span class="gh">ranked 478k out of 134m users</span>
                                 </div>
                                 <div class="text">Followed by 28 users</div>
                             </div>
@@ -2548,7 +2548,7 @@ Affected files:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.20m out of 78.8m repositories</span>
+                                    <span class="gh">ranked 5.20m out of 57.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2666,7 +2666,7 @@ Affected files:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Apr 2024, 21:23:38 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Apr 2024, 22:17:02 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
