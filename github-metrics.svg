@@ -1375,7 +1375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>memorysafety/river</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This repository is the home of the River reverse proxy application, based on the pingora library from Cloudflare.</div>
@@ -1997,7 +1997,7 @@ Affected files:
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 195k out of 135m users</span>
+                                    <span class="gh">ranked 195k out of 133m users</span>
                                 </div>
                                 <div class="text">Published 97 public repositories</div>
                             </div>
@@ -2156,7 +2156,7 @@ Affected files:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 464k out of 135m users</span>
+                                    <span class="gh">ranked 464k out of 133m users</span>
                                 </div>
                                 <div class="text">Followed by 29 users</div>
                             </div>
@@ -2451,7 +2451,7 @@ Affected files:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Apr 2024, 15:13:48 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Apr 2024, 16:12:21 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
