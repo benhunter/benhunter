@@ -1437,7 +1437,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ixy-languages/ixy-languages</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A high-speed network driver written in C, Rust, C++, Go, C#, Java, OCaml, Haskell, Swift, Javascript, and Python</div>
@@ -1584,7 +1584,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fullcalendar/fullcalendar-examples</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple example projects for FullCalendar</div>
@@ -2635,7 +2635,7 @@ Affected files:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 May 2024, 16:13:24 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 May 2024, 17:12:55 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
