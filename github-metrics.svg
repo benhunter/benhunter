@@ -1402,7 +1402,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>atlassian/react-beautiful-dnd</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Beautiful and accessible drag and drop for lists with React</div>
@@ -2505,7 +2505,7 @@ Affected files:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 May 2024, 11:19:05 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 May 2024, 12:13:11 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
