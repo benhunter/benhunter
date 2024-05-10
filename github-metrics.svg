@@ -1432,7 +1432,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ogham/exa</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modern replacement for ‘ls’.</div>
@@ -1591,7 +1591,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>charmbracelet/soft-serve</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The mighty, self-hostable Git server for the command line🍦</div>
@@ -2521,7 +2521,7 @@ Affected files:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.24m out of 204m repositories</span>
+                                    <span class="gh">ranked 5.24m out of 205m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2639,7 +2639,7 @@ Affected files:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 May 2024, 22:15:39 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 May 2024, 23:17:19 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
