@@ -1459,7 +1459,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hyprwm/Hyprland</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.</div>
@@ -1512,7 +1512,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>open-telemetry/opentelemetry-helm-charts</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenTelemetry Helm Charts</div>
@@ -1565,7 +1565,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/vscode-remote-try-rust</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust sample project for trying out Dev Containers</div>
@@ -2127,7 +2127,7 @@ Affected files:
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 178k out of 134m users</span>
+                                    <span class="gh">ranked 178k out of 136m users</span>
                                 </div>
                                 <div class="text">Published 102 public repositories</div>
                             </div>
@@ -2286,7 +2286,7 @@ Affected files:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 469k out of 134m users</span>
+                                    <span class="gh">ranked 469k out of 136m users</span>
                                 </div>
                                 <div class="text">Followed by 29 users</div>
                             </div>
@@ -2544,7 +2544,7 @@ Affected files:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.25m out of 205m repositories</span>
+                                    <span class="gh">ranked 5.25m out of 198m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2662,7 +2662,7 @@ Affected files:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 May 2024, 16:15:41 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 May 2024, 17:16:33 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
