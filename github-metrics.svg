@@ -1443,7 +1443,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apache/cassandra</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mirror of Apache Cassandra</div>
@@ -1496,7 +1496,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cockroachdb/cockroach</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CockroachDB - the open source, cloud-native distributed SQL database.</div>
@@ -2615,7 +2615,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jun 2024, 21:34:37 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Jun 2024, 22:18:35 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
