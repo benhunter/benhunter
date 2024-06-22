@@ -1369,7 +1369,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>s6industries/project-inbox</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1989,7 +1989,7 @@ The following vulnerabilities are fixed with an upgrade:
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 171k out of 139m users</span>
+                                    <span class="gh">ranked 171k out of 136m users</span>
                                 </div>
                                 <div class="text">Published 105 public repositories</div>
                             </div>
@@ -2148,7 +2148,7 @@ The following vulnerabilities are fixed with an upgrade:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 478k out of 139m users</span>
+                                    <span class="gh">ranked 478k out of 136m users</span>
                                 </div>
                                 <div class="text">Followed by 29 users</div>
                             </div>
@@ -2443,7 +2443,7 @@ The following vulnerabilities are fixed with an upgrade:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jun 2024, 16:14:21 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Jun 2024, 17:14:06 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
