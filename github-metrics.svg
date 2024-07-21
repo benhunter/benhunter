@@ -1436,7 +1436,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubernetes/dashboard</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">General-purpose web UI for Kubernetes clusters</div>
@@ -1489,7 +1489,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dotdc/grafana-dashboards-kubernetes</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A set of modern Grafana dashboards for Kubernetes.</div>
@@ -1536,7 +1536,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>projectcalico/calico</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cloud native networking and network security</div>
@@ -1589,7 +1589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>grafana/helm-charts</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2595,7 +2595,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jul 2024, 13:19:14 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Jul 2024, 14:12:09 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
