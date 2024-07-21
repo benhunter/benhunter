@@ -1436,7 +1436,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubernetes/dashboard</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">General-purpose web UI for Kubernetes clusters</div>
@@ -1489,7 +1489,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dotdc/grafana-dashboards-kubernetes</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A set of modern Grafana dashboards for Kubernetes.</div>
@@ -1536,7 +1536,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>projectcalico/calico</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cloud native networking and network security</div>
@@ -1589,7 +1589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>grafana/helm-charts</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2477,7 +2477,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.32m out of 209m repositories</span>
+                                    <span class="gh">ranked 5.32m out of 212m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2595,7 +2595,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jul 2024, 05:15:55 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Jul 2024, 06:12:51 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
