@@ -1443,7 +1443,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubernetes/dashboard</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">General-purpose web UI for Kubernetes clusters</div>
@@ -1496,7 +1496,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dotdc/grafana-dashboards-kubernetes</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A set of modern Grafana dashboards for Kubernetes.</div>
@@ -1543,7 +1543,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>projectcalico/calico</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cloud native networking and network security</div>
@@ -2602,7 +2602,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jul 2024, 20:11:42 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Jul 2024, 21:36:38 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
