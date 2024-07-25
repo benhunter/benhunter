@@ -1458,7 +1458,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>notaryproject/notation</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A CLI tool to sign and verify artifacts</div>
@@ -1511,7 +1511,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aksiksi/compose2nix</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generate a NixOS config from a Docker Compose project.</div>
@@ -2520,7 +2520,7 @@ The following vulnerabilities are fixed with an upgrade:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.32m out of 210m repositories</span>
+                                    <span class="gh">ranked 5.32m out of 213m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2638,7 +2638,7 @@ The following vulnerabilities are fixed with an upgrade:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jul 2024, 17:15:32 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Jul 2024, 18:17:23 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
