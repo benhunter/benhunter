@@ -1454,7 +1454,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lukechilds/zsh-nvm</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Zsh plugin for installing, updating and loading nvm</div>
@@ -2515,7 +2515,7 @@ The following vulnerabilities are fixed with an upgrade:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.33m out of 204m repositories</span>
+                                    <span class="gh">ranked 5.33m out of 200m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2633,7 +2633,7 @@ The following vulnerabilities are fixed with an upgrade:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Jul 2024, 11:20:25 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Jul 2024, 12:14:09 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
