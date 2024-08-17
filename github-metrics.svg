@@ -83,7 +83,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            28010 Commits
+                            28011 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -239,14 +239,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="282.1770475585382" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="282.1770475585382" y="0" width="113.7380755995344" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="395.9151231580726" y="0" width="27.600654145565215" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="423.51577730363783" y="0" width="12.394377539226399" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="435.91015484286424" y="0" width="12.090602015821837" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="448.0007568586861" y="0" width="6.771451284897565" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="454.77220814358367" y="0" width="2.6362270502291616" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="457.4084351938128" y="0" width="2.5915648061872125" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="282.1735494862888" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="282.1735494862888" y="0" width="113.73666561949031" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="395.9102151057791" y="0" width="27.606014482862275" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="423.5162295886414" y="0" width="12.394223889493034" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="435.91045347813446" y="0" width="12.090452131911164" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="448.00090561004566" y="0" width="6.771367341054389" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="454.77227295110004" y="0" width="2.6361943696381376" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="457.40846732073817" y="0" width="2.5915326792619022" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -389,7 +389,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 29.3 characters per line of code written</li>
+                        <li>Has approximately 28.9 characters per line of code written</li>
                         <li>Mostly pushes code around 01:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
@@ -1812,6 +1812,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#b43d2cf</div>
+                                        <div class="message">Refactor to functions, add asserts</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">benhunter/mcso-rl</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#4e746ea</div>
                                         <div class="message">Add chapter 12</div>
                                     </div>
@@ -1874,26 +1894,6 @@
                                     <div class="commit">
                                         <div class="sha">#d01d6e4</div>
                                         <div class="message">Add .zshrc (default + custom) + install oh-my-zsh</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">benhunter/dotfiles</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#53bfc68</div>
-                                        <div class="message">Setup Hack NerdFont</div>
                                     </div>
                                 </div>
                             </section>
@@ -2501,7 +2501,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.35m out of 215m repositories</span>
+                                    <span class="gh">ranked 5.35m out of 213m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2619,7 +2619,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Aug 2024, 11:20:58 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Aug 2024, 12:12:41 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
