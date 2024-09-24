@@ -1392,7 +1392,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>IdreesInc/Waypoint</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Obsidian plugin that gives you the power to generate dynamic MOCs in your folder notes. Enables folders to show up in the graph view and removes the need for messy tags!</div>
@@ -2001,7 +2001,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 175k out of 145m users</span>
+                                    <span class="gh">ranked 175k out of 139m users</span>
                                 </div>
                                 <div class="text">Published 106 public repositories</div>
                             </div>
@@ -2160,7 +2160,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 453k out of 145m users</span>
+                                    <span class="gh">ranked 453k out of 139m users</span>
                                 </div>
                                 <div class="text">Followed by 32 users</div>
                             </div>
@@ -2455,7 +2455,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Sept 2024, 13:23:38 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Sept 2024, 14:14:13 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
