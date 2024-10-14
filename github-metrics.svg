@@ -1443,7 +1443,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nix-community/nix-ld</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run unpatched dynamic binaries on NixOS [maintainer=@Mic92]</div>
@@ -2474,7 +2474,7 @@ This reverts commit e44a369577e86e8b9d74776f5e2b27ffbb307fee.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.41m out of 217m repositories</span>
+                                    <span class="gh">ranked 5.41m out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2592,7 +2592,7 @@ This reverts commit e44a369577e86e8b9d74776f5e2b27ffbb307fee.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Oct 2024, 17:18:06 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Oct 2024, 18:16:36 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
