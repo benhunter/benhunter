@@ -2015,7 +2015,7 @@ This reverts commit e44a369577e86e8b9d74776f5e2b27ffbb307fee.</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 170k out of 146m users</span>
+                                    <span class="gh">ranked 170k out of 144m users</span>
                                 </div>
                                 <div class="text">Published 108 public repositories</div>
                             </div>
@@ -2174,7 +2174,7 @@ This reverts commit e44a369577e86e8b9d74776f5e2b27ffbb307fee.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 458k out of 146m users</span>
+                                    <span class="gh">ranked 458k out of 144m users</span>
                                 </div>
                                 <div class="text">Followed by 32 users</div>
                             </div>
@@ -2428,7 +2428,7 @@ This reverts commit e44a369577e86e8b9d74776f5e2b27ffbb307fee.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Oct 2024, 07:35:02 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Oct 2024, 08:25:37 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
