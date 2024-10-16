@@ -1453,7 +1453,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nix-community/nix-ld</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run unpatched dynamic binaries on NixOS [maintainer=@Mic92]</div>
@@ -2267,7 +2267,7 @@ This reverts commit e44a369577e86e8b9d74776f5e2b27ffbb307fee.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 458k out of 146m users</span>
+                                    <span class="gh">ranked 459k out of 146m users</span>
                                 </div>
                                 <div class="text">Followed by 32 users</div>
                             </div>
@@ -2484,7 +2484,7 @@ This reverts commit e44a369577e86e8b9d74776f5e2b27ffbb307fee.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.41m out of 210m repositories</span>
+                                    <span class="gh">ranked 5.41m out of 213m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2602,7 +2602,7 @@ This reverts commit e44a369577e86e8b9d74776f5e2b27ffbb307fee.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Oct 2024, 23:21:03 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Oct 2024, 00:17:45 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
