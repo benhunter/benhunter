@@ -1431,7 +1431,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pacocoursey/cmdk</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast, unstyled command menu React component.</div>
@@ -2086,7 +2086,7 @@ This reverts commit e44a369577e86e8b9d74776f5e2b27ffbb307fee.</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 170k out of 147m users</span>
+                                    <span class="gh">ranked 170k out of 146m users</span>
                                 </div>
                                 <div class="text">Published 108 public repositories</div>
                             </div>
@@ -2245,7 +2245,7 @@ This reverts commit e44a369577e86e8b9d74776f5e2b27ffbb307fee.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 459k out of 147m users</span>
+                                    <span class="gh">ranked 460k out of 146m users</span>
                                 </div>
                                 <div class="text">Followed by 32 users</div>
                             </div>
@@ -2462,7 +2462,7 @@ This reverts commit e44a369577e86e8b9d74776f5e2b27ffbb307fee.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.42m out of 216m repositories</span>
+                                    <span class="gh">ranked 5.42m out of 217m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2580,7 +2580,7 @@ This reverts commit e44a369577e86e8b9d74776f5e2b27ffbb307fee.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Oct 2024, 12:15:17 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Oct 2024, 13:21:38 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
