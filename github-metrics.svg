@@ -1601,7 +1601,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rustls/rustls</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modern TLS library in Rust</div>
@@ -2106,7 +2106,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 170k out of 147m users</span>
+                                    <span class="gh">ranked 170k out of 146m users</span>
                                 </div>
                                 <div class="text">Published 108 public repositories</div>
                             </div>
@@ -2265,7 +2265,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 460k out of 147m users</span>
+                                    <span class="gh">ranked 460k out of 146m users</span>
                                 </div>
                                 <div class="text">Followed by 32 users</div>
                             </div>
@@ -2482,7 +2482,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.42m out of 216m repositories</span>
+                                    <span class="gh">ranked 5.42m out of 213m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2600,7 +2600,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Oct 2024, 20:25:01 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Oct 2024, 21:55:58 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
