@@ -1387,7 +1387,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>maplibre/maplibre-gl-js</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MapLibre GL JS - Interactive vector tile maps in the browser</div>
@@ -1440,7 +1440,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>maptiler/tileserver-gl</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Vector and raster maps with GL styles. Server side rendering by MapLibre GL Native. Map tile server for MapLibre GL JS, Android, iOS, Leaflet, OpenLayers, GIS via WMTS, etc.</div>
@@ -1493,7 +1493,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vasturiano/three-globe</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WebGL Globe Data Visualization as a ThreeJS reusable 3D object</div>
@@ -1546,7 +1546,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vasturiano/globe.gl</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">UI component for Globe Data Visualization using ThreeJS/WebGL</div>
@@ -2432,7 +2432,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Oct 2024, 10:19:43 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Oct 2024, 11:22:28 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
