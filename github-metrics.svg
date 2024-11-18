@@ -1436,7 +1436,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rustic-rs/rustic</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">rustic - fast, encrypted, and deduplicated backups powered by Rust</div>
@@ -1489,7 +1489,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>elasticsearch-dump/elasticsearch-dump</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Import and export tools for elasticsearch &amp; opensearch</div>
@@ -1542,7 +1542,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kopia/kopia</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cross-platform backup tool for Windows, macOS &amp; Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.</div>
@@ -2428,7 +2428,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Nov 2024, 09:19:56 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Nov 2024, 10:23:47 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
