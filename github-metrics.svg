@@ -1392,7 +1392,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dezoito/ollama-grid-search</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A multi-platform desktop application to evaluate and compare LLM models, written in Rust and React.</div>
@@ -1445,7 +1445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DioxusLabs/dioxus</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fullstack app framework for web, desktop, mobile, and more.</div>
@@ -1498,7 +1498,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mstange/samply</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Command-line sampling profiler for macOS and Linux</div>
@@ -2416,7 +2416,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Dec 2024, 07:21:51 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Dec 2024, 08:15:30 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
