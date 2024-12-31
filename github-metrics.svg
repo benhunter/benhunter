@@ -1386,7 +1386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pyinfra-dev/pyinfra</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and scales from one server to thousands.</div>
@@ -1439,7 +1439,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/markitdown</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python tool for converting files and office documents to Markdown.</div>
@@ -1492,7 +1492,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vvalac/pdf-darkmode</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Chrome extension to render PDFs as Dark Mode</div>
@@ -1977,7 +1977,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 166k out of 152m users</span>
+                                    <span class="gh">ranked 166k out of 142m users</span>
                                 </div>
                                 <div class="text">Published 111 public repositories</div>
                             </div>
@@ -2136,7 +2136,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 411k out of 152m users</span>
+                                    <span class="gh">ranked 411k out of 142m users</span>
                                 </div>
                                 <div class="text">Followed by 37 users</div>
                             </div>
@@ -2390,7 +2390,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Dec 2024, 12:22:41 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Dec 2024, 13:13:17 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
