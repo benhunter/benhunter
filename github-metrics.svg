@@ -1370,7 +1370,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>astro/microvm.nix</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NixOS MicroVMs</div>
@@ -1423,7 +1423,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>praeclarum/webgpu-torch</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tensor computation with WebGPU acceleration</div>
@@ -1476,7 +1476,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>srid/rust-nix-template</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust project template with Nix (Flakes) and VSCode support</div>
@@ -2391,7 +2391,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jan 2025, 21:24:42 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jan 2025, 22:21:13 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
