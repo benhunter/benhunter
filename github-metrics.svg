@@ -1402,7 +1402,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>esp-rs/esp-hal</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">no_std Hardware Abstraction Layers for ESP32 microcontrollers</div>
@@ -1455,7 +1455,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>embassy-rs/trouble</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Rust Host BLE stack with a future goal of qualification.</div>
@@ -2433,7 +2433,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jan 2025, 23:16:50 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jan 2025, 00:23:49 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
