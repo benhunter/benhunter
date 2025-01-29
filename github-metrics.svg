@@ -1453,7 +1453,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Panopto-Video-DL/Panopto-Video-DL-browser</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Userscripts to get the stream download URL from Panopto</div>
@@ -1500,7 +1500,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sonatype/helm3-charts</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Helm3 charts for Nexus IQ</div>
@@ -1553,7 +1553,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Rust-GPU/Rust-CUDA</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.</div>
@@ -2466,7 +2466,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.54m out of 234m repositories</span>
+                                    <span class="gh">ranked 5.54m out of 230m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2584,7 +2584,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jan 2025, 22:20:13 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Jan 2025, 23:16:48 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
