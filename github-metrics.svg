@@ -1364,7 +1364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>paralax/awesome-honeypots</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">an awesome list of honeypot resources</div>
@@ -2208,7 +2208,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.46m out of 232m repositories</span>
+                                    <span class="gh">ranked 3.46m out of 226m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -2392,7 +2392,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Feb 2025, 19:18:38 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Feb 2025, 20:48:22 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
