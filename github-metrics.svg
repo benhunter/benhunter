@@ -1364,7 +1364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lordofwizard/fakehub</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">FakeHub is a fake Git/GitHub history generator powered by libgit2 and written entirely in Rust🦀</div>
@@ -1417,7 +1417,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tsgates/rust.ko</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A minimal Linux kernel module written in rust.</div>
@@ -1464,7 +1464,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cucumber-rs/cucumber</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cucumber testing framework for Rust. Fully native, no external test runners or dependencies.</div>
@@ -2213,7 +2213,7 @@ The following vulnerabilities are fixed with an upgrade:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.48m out of 237m repositories</span>
+                                    <span class="gh">ranked 3.48m out of 232m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -2397,7 +2397,7 @@ The following vulnerabilities are fixed with an upgrade:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Feb 2025, 23:16:47 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Feb 2025, 00:24:11 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
