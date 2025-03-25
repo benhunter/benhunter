@@ -1386,7 +1386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Steam-Headless/docker-steam-headless</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI</div>
@@ -1439,7 +1439,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NARKOZ/hacker-scripts</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Based on a true story</div>
@@ -2214,7 +2214,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.53m out of 229m repositories</span>
+                                    <span class="gh">ranked 3.53m out of 232m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -2398,7 +2398,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Mar 2025, 20:24:58 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Mar 2025, 21:59:10 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
