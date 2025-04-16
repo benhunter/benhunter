@@ -1397,7 +1397,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cyberark/agentwatch</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A powerful AI observability framework that provides comprehensive insights into agent interactions across platforms, enabling developers to monitor, analyze, and optimize AI-driven applications with minimal integration effort.</div>
@@ -1888,7 +1888,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Apr 2025, 09:19:50 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Apr 2025, 10:21:05 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
