@@ -1547,7 +1547,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>databus23/helm-diff</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A helm plugin that shows a diff explaining what a helm upgrade would change</div>
@@ -1893,7 +1893,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Apr 2025, 08:27:43 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Apr 2025, 09:18:04 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
