@@ -1428,7 +1428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cyberark/agentwatch</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A powerful AI observability framework that provides comprehensive insights into agent interactions across platforms, enabling developers to monitor, analyze, and optimize AI-driven applications with minimal integration effort.</div>
@@ -1481,7 +1481,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jayphelps/git-blame-someone-else</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Blame someone else for your bad code.</div>
@@ -1866,7 +1866,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Apr 2025, 20:25:08 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Apr 2025, 21:59:32 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
