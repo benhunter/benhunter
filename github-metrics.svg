@@ -1380,7 +1380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Ayobami-00/k8s-lite-go</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A minimal, educational re-implementation of Kubernetes core control plane components in Go. This project is designed to demystify how Kubernetes works by letting you build, run, and experiment with a simplified version—from scratch.</div>
@@ -1433,7 +1433,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubero-dev/kubero</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes</div>
@@ -1486,7 +1486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>coollabsio/coolify</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative.</div>
@@ -1862,7 +1862,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 May 2025, 16:16:54 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 May 2025, 17:17:50 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
