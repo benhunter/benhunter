@@ -1369,7 +1369,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jj-vcs/jj</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Git-compatible VCS that is both simple and powerful</div>
@@ -1422,7 +1422,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oxidecomputer/console</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Oxide Web Console</div>
@@ -1475,7 +1475,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>loco-rs/loco-openapi-Initializer</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This crate adds OpenAPI support to Loco</div>
@@ -1522,7 +1522,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>juhaku/utoipa</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust</div>
@@ -1829,7 +1829,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 May 2025, 22:07:44 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 May 2025, 23:22:54 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
