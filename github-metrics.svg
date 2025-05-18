@@ -1374,7 +1374,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cartography-cncf/cartography</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.</div>
@@ -1427,7 +1427,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>opencve/opencve</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open-source CVE monitoring and alerting platform</div>
@@ -1533,7 +1533,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oxidecomputer/console</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Oxide Web Console</div>
@@ -1840,7 +1840,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 May 2025, 00:18:53 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 May 2025, 01:27:11 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
