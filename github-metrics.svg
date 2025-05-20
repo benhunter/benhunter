@@ -1545,7 +1545,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>opencve/opencve</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open-source CVE monitoring and alerting platform</div>
@@ -1852,7 +1852,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 May 2025, 08:32:56 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 May 2025, 09:20:19 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
