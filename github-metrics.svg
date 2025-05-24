@@ -1369,7 +1369,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jaw9c/awesome-remote-mcp-servers</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated, opinionated list of high-quality remote Model Context Protocol (MCP) servers.</div>
@@ -1416,7 +1416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>promptfoo/promptfoo</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.</div>
@@ -1469,7 +1469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bincode-org/bincode</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A binary encoder / decoder implementation in Rust.</div>
@@ -1522,7 +1522,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>klausw/hackerskeyboard</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hacker's Keyboard (official)</div>
@@ -1829,7 +1829,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 May 2025, 12:16:00 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 May 2025, 13:25:09 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
