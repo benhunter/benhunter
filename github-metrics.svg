@@ -1392,7 +1392,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>obsidian-nvim/obsidian.nvim</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Obsidian 🤝 Neovim</div>
@@ -1445,7 +1445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>twitchax/triage-bot</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An OpenAI-powered triage bot for a slack support channel designed to tag oncalls, prioritize issues, suggest solutions, and streamline communication.</div>
@@ -1872,7 +1872,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 May 2025, 14:15:49 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 May 2025, 15:22:00 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
