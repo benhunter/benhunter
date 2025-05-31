@@ -1369,7 +1369,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jedisct1/yes-rs</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚀 A blazingly fast, memory-safe rewrite of the classic Unix 'yes' command. Written in Rust! 🦀</div>
@@ -1416,7 +1416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NVIDIA/garak</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">the LLM vulnerability scanner</div>
@@ -1469,7 +1469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>meta-llama/PurpleLlama</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Set of tools to assess and improve LLM security.</div>
@@ -1522,7 +1522,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>protectai/llm-guard</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Security Toolkit for LLM Interactions</div>
@@ -1829,7 +1829,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 May 2025, 20:37:15 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 May 2025, 22:10:38 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
