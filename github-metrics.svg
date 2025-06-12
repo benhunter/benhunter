@@ -1394,7 +1394,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>block/goose</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM</div>
@@ -1447,7 +1447,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alphacep/vosk-api</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node</div>
@@ -1553,7 +1553,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rockettpunk/dead-canary</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">LAN watchdog that gracefully shuts down a NAS via ESP32</div>
@@ -1877,7 +1877,7 @@ The following vulnerabilities are fixed with an upgrade:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jun 2025, 22:16:14 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Jun 2025, 23:26:58 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
