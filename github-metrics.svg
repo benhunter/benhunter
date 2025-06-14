@@ -1373,7 +1373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AndrewRadev/switch.vim</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple Vim plugin to switch segments of text with predefined replacements</div>
@@ -1426,7 +1426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SerenityOS/yaksplained</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">All the SerenityOS Yaks, explained</div>
@@ -1854,7 +1854,7 @@ The following vulnerabilities are fixed with an upgrade:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jun 2025, 23:24:34 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Jun 2025, 00:19:51 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
