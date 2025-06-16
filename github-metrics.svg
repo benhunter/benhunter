@@ -1532,7 +1532,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alphacep/vosk-api</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node</div>
@@ -1860,7 +1860,7 @@ The following vulnerabilities are fixed with an upgrade:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jun 2025, 22:22:04 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Jun 2025, 23:32:42 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
