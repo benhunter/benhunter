@@ -1370,7 +1370,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BC-SECURITY/Starkiller</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Starkiller is a Frontend for PowerShell Empire.</div>
@@ -1423,7 +1423,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EmpireProject/Empire</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Empire is a PowerShell and Python post-exploitation agent.</div>
@@ -1476,7 +1476,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BC-SECURITY/DEFCON27</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DEFCON 27 slides and workshop materials.</div>
@@ -1517,7 +1517,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kilgarenone/medium-unplugged</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A firefox addon that strips everything but the content of a Medium article</div>
@@ -1831,7 +1831,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jun 2025, 04:21:24 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Jun 2025, 05:21:46 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
