@@ -1386,7 +1386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>johnousterhout/aposd-vs-clean-code</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A discussion between John Ousterhout and Robert Martin about differences between John's book "A Philosophy of Software Design" and Bob's book "Clean Code".</div>
@@ -1427,7 +1427,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>punkpeye/awesome-mcp-servers</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of MCP servers.</div>
@@ -1474,7 +1474,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>teabranch/open-responses-server</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Wraps any OpenAI API interface as Responses with MCPs support so it supports Codex. Adding any missing stateful features. Ollama and Vllm compliant.</div>
@@ -1849,7 +1849,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jun 2025, 20:42:45 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jun 2025, 22:18:52 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
