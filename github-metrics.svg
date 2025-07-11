@@ -1370,7 +1370,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anvilsecure/pqcscan</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Post-Quantum Cryptography Scanner - Scan SSH/TLS servers for PQC support</div>
@@ -1423,7 +1423,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nickpending/cvedep</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A growing dataset of CVE analyses using streamlined JSON to track dependencies and exploitation conditions.</div>
@@ -1827,7 +1827,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jul 2025, 15:23:04 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Jul 2025, 16:19:50 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
