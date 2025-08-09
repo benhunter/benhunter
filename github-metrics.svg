@@ -1369,7 +1369,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rehosting/penguin</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PENGUIN (Personalized EmulatioN Generated Using Instrumented Analysis) takes a target centric approach to rehosting using a precise and tailored specification of the rehosting process</div>
@@ -1422,7 +1422,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>usdAG/sah</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Static Analysis Hero (SAH) - Security Code-Review made easy</div>
@@ -1844,7 +1844,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Aug 2025, 13:28:39 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Aug 2025, 14:15:46 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
