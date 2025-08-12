@@ -1386,7 +1386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dnlzro/horizon</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The current sky at your approximate location, rendered as a CSS gradient</div>
@@ -1539,7 +1539,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>usdAG/sah</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Static Analysis Hero (SAH) - Security Code-Review made easy</div>
@@ -1848,7 +1848,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Aug 2025, 13:31:32 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Aug 2025, 14:16:48 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
