@@ -1380,7 +1380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>markserv/markserv</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🏁  serve markdown as html (GitHub style), index directories, live-reload as you edit</div>
@@ -1433,7 +1433,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ongardie/dissertation</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sources for my PhD dissertation on the Raft consensus algorithm</div>
@@ -1486,7 +1486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ekala-project/eka</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A WIP CLI frontend for the Eos API</div>
@@ -1539,7 +1539,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nurupo/vlc-pause-click-plugin</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Plugin for VLC that pauses/plays video on mouse click</div>
@@ -1876,7 +1876,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Oct 2025, 15:19:32 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Oct 2025, 16:15:46 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
