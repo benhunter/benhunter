@@ -1397,7 +1397,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>avarayr/shamelectron</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚛️ Tracking Electron apps that haven't bumped their electron versions to mitigate a GPU load issue on MacOS 26</div>
@@ -1556,7 +1556,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ekala-project/eka</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A WIP CLI frontend for the Eos API</div>
@@ -1877,7 +1877,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Oct 2025, 00:19:05 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Oct 2025, 01:29:50 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
