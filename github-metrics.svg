@@ -1377,7 +1377,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Termix-SSH/Termix</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.</div>
@@ -1430,7 +1430,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>orhun/systeroid</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A more powerful alternative to sysctl(8) with a terminal user interface 🐧</div>
@@ -1536,7 +1536,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cyberark/conjur</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CyberArk Conjur automatically secures secrets used by privileged users and machine identities</div>
@@ -1784,7 +1784,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Dec 2025, 15:19:13 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Dec 2025, 16:20:36 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
