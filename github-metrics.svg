@@ -1366,7 +1366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>securego/gosec</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Go security checker</div>
@@ -1419,7 +1419,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>meganerd/electrictown</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Provider-agnostic multi-agent coding orchestrator in Go. Unified router for any LLM provider (Ollama local+cloud, OpenAI, Anthropic, Google Gemini) with role-based model assignment, fallback chains, and cost tracking. Inspired by gastown and LiteLLM.</div>
@@ -1466,7 +1466,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bobbydd021-code/Lantern</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1514,7 +1514,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hanselime/paqet</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ferries Packets Across Forbidden Boundaries 👀</div>
@@ -1762,7 +1762,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Feb 2026, 16:23:46 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Feb 2026, 17:22:28 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
