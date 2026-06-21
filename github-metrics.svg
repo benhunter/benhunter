@@ -1371,7 +1371,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nubo-db/dynoxide</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast, embeddable drop-in for DynamoDB Local, backed by SQLite. Runs as a native binary, a ~5 MB Docker image, or in the browser.</div>
@@ -1766,7 +1766,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jun 2026, 10:51:50 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Jun 2026, 12:28:26 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
