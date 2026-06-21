@@ -1371,7 +1371,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nubo-db/dynoxide</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast, embeddable drop-in for DynamoDB Local, backed by SQLite. Runs as a native binary, a ~5 MB Docker image, or in the browser.</div>
@@ -1424,7 +1424,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yogthos/chiasmus</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Chiasmus is an MCP server that gives language models access to formal verification</div>
@@ -1766,7 +1766,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jun 2026, 01:02:00 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Jun 2026, 05:29:32 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
