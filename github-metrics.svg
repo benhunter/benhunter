@@ -1389,7 +1389,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>danvega/rest-test-client</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1437,7 +1437,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Devolutions/UniGetUI</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers</div>
@@ -1490,7 +1490,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ScoopInstaller/Scoop</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A command-line installer for Windows.</div>
@@ -1543,7 +1543,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>psmux/psmux</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native Powershell Tmux designed for Windows in Rust 🦀</div>
@@ -1791,7 +1791,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jun 2026, 17:13:56 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jun 2026, 18:58:04 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
