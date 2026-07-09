@@ -1494,7 +1494,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Devolutions/UniGetUI</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers</div>
@@ -1547,7 +1547,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ScoopInstaller/Scoop</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A command-line installer for Windows.</div>
@@ -1797,7 +1797,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jul 2026, 19:10:07 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jul 2026, 00:03:26 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
