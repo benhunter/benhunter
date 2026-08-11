@@ -1377,7 +1377,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EmenstaNougat/ESP32-BlueJammer</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications. Using an ESP32 and nRF24 modules, it generates noise and unnecessary packets, causing interference between the devices communicating, making them unable to work as intended. Ideal for controlled disruption and security testing.</div>
@@ -1424,7 +1424,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ToyotaInfoTech/RAMN</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">RAMN (Resistant Automotive Miniature Network), a miniature CAN/CAN-FD testbed of 4 Electronic Control Units.</div>
@@ -1839,7 +1839,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Aug 2026, 06:43:00 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Aug 2026, 08:04:43 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
