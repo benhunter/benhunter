@@ -1384,7 +1384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>peakoss/anti-slop</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A GitHub action that detects and automatically closes low-quality and AI slop PRs.</div>
@@ -1437,7 +1437,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>getsentry/skills</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Agent Skills used by the Sentry team for development.</div>
@@ -1538,7 +1538,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KhaelK138/PhantomShell</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Use TCP Doublespeak to turn every service into a backdoor. Run commands via raw TCP/UDP frames through firewalls. All-in-one C binary.</div>
@@ -1786,7 +1786,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Aug 2026, 13:39:13 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Aug 2026, 14:29:28 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
