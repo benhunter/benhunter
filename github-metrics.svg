@@ -1399,7 +1399,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TGYD-helige/pi</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pluggable extension packages for the Pi AI-agent runtime. Each package exposes LLM-callable tools via MCP — covering IM workspace integrations (Lark, DingTalk, WeCom), browser &amp; computer automation, persistent memory, telemetry, task scheduling, image generation, web access, security policies, and more.</div>
@@ -1558,7 +1558,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apache/burr</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on your own infrastructure.</div>
@@ -1808,7 +1808,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Sept 2026, 12:33:29 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Sept 2026, 15:35:27 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
